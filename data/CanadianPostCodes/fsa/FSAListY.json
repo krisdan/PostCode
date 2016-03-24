@@ -1,0 +1,17 @@
+{
+  "name": "FSAListY",
+  "fsaList": [
+    {
+      "code": "Y0A",
+      "description": "Southeastern Yukon"
+    },
+    {
+      "code": "Y0B",
+      "description": "Central Yukon"
+    },
+    {
+      "code": "Y1A",
+      "description": "Whitehorse"
+    }
+  ]
+}

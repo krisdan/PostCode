@@ -1,0 +1,617 @@
+{
+  "name": "FSAListT",
+  "fsaList": [
+    {
+      "code": "T0A",
+      "description": "Eastern Alberta"
+    },
+    {
+      "code": "T0B",
+      "description": "Wainwright Region"
+    },
+    {
+      "code": "T0C",
+      "description": "Central Alberta"
+    },
+    {
+      "code": "T0E",
+      "description": "Western Alberta"
+    },
+    {
+      "code": "T0G",
+      "description": "North Central Alberta"
+    },
+    {
+      "code": "T0H",
+      "description": "Northwestern Alberta"
+    },
+    {
+      "code": "T0J",
+      "description": "Southeastern Alberta"
+    },
+    {
+      "code": "T0K",
+      "description": "International Border Region"
+    },
+    {
+      "code": "T0L",
+      "description": "Kananaskis Improvement District"
+    },
+    {
+      "code": "T0M",
+      "description": "Central Foothills"
+    },
+    {
+      "code": "T0P",
+      "description": "Northeastern Alberta"
+    },
+    {
+      "code": "T0R",
+      "description": "Remote Northeast"
+    },
+    {
+      "code": "T1A",
+      "description": "Medicine Hat, Central"
+    },
+    {
+      "code": "T1B",
+      "description": "Medicine Hat, South"
+    },
+    {
+      "code": "T1C",
+      "description": "Medicine Hat, North"
+    },
+    {
+      "code": "T1G",
+      "description": "Taber"
+    },
+    {
+      "code": "T1H",
+      "description": "Lethbridge, North"
+    },
+    {
+      "code": "T1J",
+      "description": "Lethbridge, West and Central"
+    },
+    {
+      "code": "T1K",
+      "description": "Lethbridge, West and South"
+    },
+    {
+      "code": "T1L",
+      "description": "Banff"
+    },
+    {
+      "code": "T1M",
+      "description": "Coaldale"
+    },
+    {
+      "code": "T1P",
+      "description": "Strathmore"
+    },
+    {
+      "code": "T1R",
+      "description": "Brooks"
+    },
+    {
+      "code": "T1S",
+      "description": "Okotoks"
+    },
+    {
+      "code": "T1V",
+      "description": "High River"
+    },
+    {
+      "code": "T1W",
+      "description": "Canmore"
+    },
+    {
+      "code": "T1X",
+      "description": "Chestermere"
+    },
+    {
+      "code": "T1Y",
+      "description": "Calgary (Rundle / Whitehorn / Monterey Park)"
+    },
+    {
+      "code": "T1Z",
+      "description": "Rocky View"
+    },
+    {
+      "code": "T2A",
+      "description": "Calgary (Penbrooke Meadows / Marlborough)"
+    },
+    {
+      "code": "T2B",
+      "description": "Calgary (Forest Lawn / Dover / Erin Woods)"
+    },
+    {
+      "code": "T2C",
+      "description": "Calgary (Lynnwood Ridge / Ogden / Foothills Industrial / Great Plains)"
+    },
+    {
+      "code": "T2E",
+      "description": "Calgary (Bridgeland / Greenview / Zoo / YYC)"
+    },
+    {
+      "code": "T2G",
+      "description": "Calgary (Inglewood / Burnsland / Chinatown / East Victoria Park / Saddledome)"
+    },
+    {
+      "code": "T2H",
+      "description": "Calgary (Highfield / Burns Industrial)"
+    },
+    {
+      "code": "T2J",
+      "description": "Calgary (Queensland Downs / Lake Bonavista / Willow Park / Acadia)"
+    },
+    {
+      "code": "T2K",
+      "description": "Calgary, (Thorncliffe / Tuxedo Park)"
+    },
+    {
+      "code": "T2L",
+      "description": "Calgary (Brentwood / Collingwood / Nose Hill)"
+    },
+    {
+      "code": "T2M",
+      "description": "Calgary (Mount Pleasant / Capitol Hill / Banff Trail)"
+    },
+    {
+      "code": "T2N",
+      "description": "Calgary (Kensington / Westmont / Parkdale / University)"
+    },
+    {
+      "code": "T2P",
+      "description": "Calgary (City Centre / Calgary Tower)"
+    },
+    {
+      "code": "T2R",
+      "description": "Calgary (Connaught / West Victoria Park)"
+    },
+    {
+      "code": "T2S",
+      "description": "Calgary (Elbow Park / Britannia / Parkhill / Mission)"
+    },
+    {
+      "code": "T2T",
+      "description": "Calgary, South (Altadore / Bankview / Richmond)"
+    },
+    {
+      "code": "T2V",
+      "description": "Calgary (Oak Ridge / Haysboro / Kingsland / Kelvin Grove / Windsor Park)"
+    },
+    {
+      "code": "T2W",
+      "description": "Calgary (Braeside / Cedarbrae / Woodbine)"
+    },
+    {
+      "code": "T2X",
+      "description": "Calgary (Midnapore / Sundance)"
+    },
+    {
+      "code": "T2Y",
+      "description": "Calgary (Millrise / Somerset / Bridlewood / Evergreen)"
+    },
+    {
+      "code": "T2Z",
+      "description": "Calgary (Douglas Glen / McKenzie Lake / Copperfield / East Shepard)"
+    },
+    {
+      "code": "T3A",
+      "description": "Calgary (Dalhousie / Edgemont / Hamptons / Hidden Valley)"
+    },
+    {
+      "code": "T3B",
+      "description": "Calgary (Montgomery / Bowness / Silver Springs / Greenwood)"
+    },
+    {
+      "code": "T3C",
+      "description": "Calgary (Rosscarrock / Westgate / Wildwood / Shaganappi / Sunalta)"
+    },
+    {
+      "code": "T3E",
+      "description": "Calgary (Lakeview / Glendale / Killarney / Glamorgan)"
+    },
+    {
+      "code": "T3G",
+      "description": "Calgary (Hawkwood / Arbour Lake / Citadel / Ranchlands / Royal Oak / Rocky Ridge)"
+    },
+    {
+      "code": "T3H",
+      "description": "Calgary (Discovery Ridge / Signal Hill / West Springs /Christie Estates / Patterson / Cougar Ridge)\t"
+    },
+    {
+      "code": "T3J",
+      "description": "Calgary (Martindale / Taradale / Falconridge / Saddle Ridge)"
+    },
+    {
+      "code": "T3K",
+      "description": "Calgary (Sandstone / MacEwan Glen / Beddington / Harvest Hills / Coventry Hills / Panorama Hills)"
+    },
+    {
+      "code": "T3L",
+      "description": "Calgary (Tuscany / Scenic Acres)"
+    },
+    {
+      "code": "T3M",
+      "description": "Calgary (Cranston)"
+    },
+    {
+      "code": "T3N",
+      "description": "Calgary, Northeast"
+    },
+    {
+      "code": "T3P",
+      "description": "Calgary (Symons Valley)"
+    },
+    {
+      "code": "T3R",
+      "description": "Calgary, Northwest"
+    },
+    {
+      "code": "T3S",
+      "description": "Calgary, Southeast"
+    },
+    {
+      "code": "T3Z",
+      "description": "Redwood Meadows"
+    },
+    {
+      "code": "T4A",
+      "description": "Airdrie, East"
+    },
+    {
+      "code": "T4B",
+      "description": "Airdrie, West"
+    },
+    {
+      "code": "T4C",
+      "description": "Cochrane"
+    },
+    {
+      "code": "T4E",
+      "description": "Red Deer County"
+    },
+    {
+      "code": "T4G",
+      "description": "Innisfail"
+    },
+    {
+      "code": "T4H",
+      "description": "Olds"
+    },
+    {
+      "code": "T4J",
+      "description": "Ponoka"
+    },
+    {
+      "code": "T4L",
+      "description": "Lacombe"
+    },
+    {
+      "code": "T4M",
+      "description": "Blackflads"
+    },
+    {
+      "code": "T4N",
+      "description": "Red Deer, Central"
+    },
+    {
+      "code": "T4P",
+      "description": "Red Deer, North"
+    },
+    {
+      "code": "T4R",
+      "description": "Red Deer, South"
+    },
+    {
+      "code": "T4S",
+      "description": "Sylvan Lake"
+    },
+    {
+      "code": "T4T",
+      "description": "Rocky Mountain House"
+    },
+    {
+      "code": "T4V",
+      "description": "Camrose"
+    },
+    {
+      "code": "T4X",
+      "description": "Beaumont"
+    },
+    {
+      "code": "T5A",
+      "description": "Edmonton (West Clareview / East Londonderry)"
+    },
+    {
+      "code": "T5B",
+      "description": "Edmonton (East North Central / West Beverly)"
+    },
+    {
+      "code": "T5C",
+      "description": "Edmonton (Central Londonderry)"
+    },
+    {
+      "code": "T5E",
+      "description": "Edmonton (West Londonderry / East Calder)"
+    },
+    {
+      "code": "T5G",
+      "description": "Edmonton (North Central / Queen Mary Park / YXD)"
+    },
+    {
+      "code": "T5H",
+      "description": "Edmonton (North and East Downtown Fringe)"
+    },
+    {
+      "code": "T5J",
+      "description": "Edmonton (North Downtown)"
+    },
+    {
+      "code": "T5K",
+      "description": "Edmonton (South Downtown / South Downtown Fringe) Alberta Provincial Government"
+    },
+    {
+      "code": "T5L",
+      "description": "Edmonton (North Westmount / West Calder / East Mistatim)"
+    },
+    {
+      "code": "T5M",
+      "description": "Edmonton (South Westmount / Groat Estate / East Northwest Industrial)"
+    },
+    {
+      "code": "T5N",
+      "description": "Edmonton (Glenora / SW Downtown Fringe)"
+    },
+    {
+      "code": "T5P",
+      "description": "Edmonton (North Jasper Place)"
+    },
+    {
+      "code": "T5R",
+      "description": "Edmonton (Central Jasper Place / Buena Vista)"
+    },
+    {
+      "code": "T5S",
+      "description": "Edmonton (West Northwest Industrial / Winterburn)"
+    },
+    {
+      "code": "T5T",
+      "description": "Edmonton (West Jasper Place / West Edmonton Mall)"
+    },
+    {
+      "code": "T5V",
+      "description": "Edmonton (Central Mistatim)"
+    },
+    {
+      "code": "T5W",
+      "description": "Edmonton (Central Beverly)"
+    },
+    {
+      "code": "T5X",
+      "description": "Edmonton (East Castle Downs)"
+    },
+    {
+      "code": "T5Y",
+      "description": "Edmonton (Landbank / Oliver / East Lake District)"
+    },
+    {
+      "code": "T5Z",
+      "description": "Edmonton (West Lake District)"
+    },
+    {
+      "code": "T6A",
+      "description": "Edmonton (North Capilano)"
+    },
+    {
+      "code": "T6B",
+      "description": "Edmonton (SE Capilano / West Southeast Industrial / East Bonnie Doon)"
+    },
+    {
+      "code": "T6C",
+      "description": "Edmonton (Central Bonnie Doon)"
+    },
+    {
+      "code": "T6E",
+      "description": "Edmonton (South Bonnie Doon / East University)"
+    },
+    {
+      "code": "T6G",
+      "description": "Edmonton (West University / Strathcona Place)"
+    },
+    {
+      "code": "T6H",
+      "description": "Edmonton (Southgate / North Riverbend)"
+    },
+    {
+      "code": "T6J",
+      "description": "Edmonton (Kaskitayo / Aspen Gardens)"
+    },
+    {
+      "code": "T6K",
+      "description": "Edmonton (West Mill Woods)"
+    },
+    {
+      "code": "T6L",
+      "description": "Edmonton (East Mill Woods)"
+    },
+    {
+      "code": "T6M",
+      "description": "Edmonton, Southwest"
+    },
+    {
+      "code": "T6N",
+      "description": "Edmonton (South Industrial)"
+    },
+    {
+      "code": "T6P",
+      "description": "Edmonton (East Southeast Industrial / South Clover Bar)"
+    },
+    {
+      "code": "T6R",
+      "description": "Edmonton (Riverbend)"
+    },
+    {
+      "code": "T6S",
+      "description": "Edmonton (North Clover Bar)"
+    },
+    {
+      "code": "T6T",
+      "description": "Edmonton (The Meadows)"
+    },
+    {
+      "code": "T6V",
+      "description": "Edmonton (West Castle Downs)"
+    },
+    {
+      "code": "T6W",
+      "description": "Edmonton (Heritage Valley)"
+    },
+    {
+      "code": "T6X",
+      "description": "Edmonton (Ellerslie)"
+    },
+    {
+      "code": "T7A",
+      "description": "Drayton Valley"
+    },
+    {
+      "code": "T7E",
+      "description": "Edson"
+    },
+    {
+      "code": "T7N",
+      "description": "Barrhead"
+    },
+    {
+      "code": "T7P",
+      "description": "Westlock"
+    },
+    {
+      "code": "T7S",
+      "description": "Whitecourt"
+    },
+    {
+      "code": "T7V",
+      "description": "Hinton"
+    },
+    {
+      "code": "T7X",
+      "description": "Spruce Grove, North"
+    },
+    {
+      "code": "T7Y",
+      "description": "Spruce Grove, South"
+    },
+    {
+      "code": "T7Z",
+      "description": "Stony Plain"
+    },
+    {
+      "code": "T8A",
+      "description": "Sherwood Park, West"
+    },
+    {
+      "code": "T8B",
+      "description": "Sherwood Park, Outer Southwest"
+    },
+    {
+      "code": "T8C",
+      "description": "Sherwood Park, Inner Southwest"
+    },
+    {
+      "code": "T8E",
+      "description": "Sherwood Park, Central"
+    },
+    {
+      "code": "T8G",
+      "description": "Sherwood Park/ Ardrossan, East"
+    },
+    {
+      "code": "T8H",
+      "description": "Sherwood Park, Northwest"
+    },
+    {
+      "code": "T8L",
+      "description": "Fort Saskatchewan"
+    },
+    {
+      "code": "T8N",
+      "description": "St. Albert"
+    },
+    {
+      "code": "T8R",
+      "description": "Morinville"
+    },
+    {
+      "code": "T8S",
+      "description": "Peace River"
+    },
+    {
+      "code": "T8V",
+      "description": "Grande Prairie, Central"
+    },
+    {
+      "code": "T8W",
+      "description": "Grande Prairie, South"
+    },
+    {
+      "code": "T8X",
+      "description": "Grande Prairie, East"
+    },
+    {
+      "code": "T9A",
+      "description": "Wetaskiwin"
+    },
+    {
+      "code": "T9C",
+      "description": "Vegreville"
+    },
+    {
+      "code": "T9E",
+      "description": "Leduc (Includes YEG)"
+    },
+    {
+      "code": "T9G",
+      "description": "Devon"
+    },
+    {
+      "code": "T9H",
+      "description": "Fort McMurray, Outer Central"
+    },
+    {
+      "code": "T9J",
+      "description": "Fort McMurray, Inner Central"
+    },
+    {
+      "code": "T9K",
+      "description": "Fort McMurray, Northwest"
+    },
+    {
+      "code": "T9M",
+      "description": "Cold Lake"
+    },
+    {
+      "code": "T9N",
+      "description": "Bonnyville"
+    },
+    {
+      "code": "T9S",
+      "description": "Athabasca"
+    },
+    {
+      "code": "T9V",
+      "description": "Lloydminster"
+    },
+    {
+      "code": "T9W",
+      "description": "Wainwright"
+    },
+    {
+      "code": "T9X",
+      "description": "Vermilion"
+    }
+  ]
+}

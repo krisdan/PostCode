@@ -1,0 +1,33 @@
+{
+  "name": "FSAListX",
+  "fsaList": [
+    {
+      "code": "X0A",
+      "description": "Qikiqtaaluk Region"
+    },
+    {
+      "code": "X0B",
+      "description": "Kitikmeot Region"
+    },
+    {
+      "code": "X0C",
+      "description": "Kivalliq Region"
+    },
+    {
+      "code": "X0E",
+      "description": "Central Northwest Territories"
+    },
+    {
+      "code": "X0G",
+      "description": "Southwestern Northwest Territories"
+    },
+    {
+      "code": "X1A",
+      "description": "Yellowknife"
+    },
+    {
+      "code": "X9Z",
+      "description": "Reserved, United States-bound mail"
+    }
+  ]
+}

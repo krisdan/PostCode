@@ -1,0 +1,561 @@
+{
+  "name": "FSAListG",
+  "fsaList": [
+    {
+      "code": "G0A",
+      "description": "Capitale-Nationale"
+    },
+    {
+      "code": "G0C",
+      "description": "Gaspésie-Sud"
+    },
+    {
+      "code": "G0E",
+      "description": "Gaspésie-Nord"
+    },
+    {
+      "code": "G0G",
+      "description": "Côte-Nord \u0026 Anticosti"
+    },
+    {
+      "code": "G0H",
+      "description": "Manicouagan"
+    },
+    {
+      "code": "G0J",
+      "description": "Gaspésie-Ouest"
+    },
+    {
+      "code": "G0K",
+      "description": "Bas-Saint-Laurent-Est"
+    },
+    {
+      "code": "G0L",
+      "description": "Bas-Saint-Laurent-Ouest"
+    },
+    {
+      "code": "G0M",
+      "description": "Région de Beauce"
+    },
+    {
+      "code": "G0N",
+      "description": "Chaudière-Sud"
+    },
+    {
+      "code": "G0P",
+      "description": "Centre-du-Québec-Est"
+    },
+    {
+      "code": "G0R",
+      "description": "Appalaches"
+    },
+    {
+      "code": "G0S",
+      "description": "Chaudière-Nord"
+    },
+    {
+      "code": "G0T",
+      "description": "Le Fjord"
+    },
+    {
+      "code": "G0V",
+      "description": "Saguenay-Lac-Saint-Jean-Est"
+    },
+    {
+      "code": "G0W",
+      "description": "Saguenay-Lac-Saint-Jean-Ouest"
+    },
+    {
+      "code": "G0X",
+      "description": "Mauricie"
+    },
+    {
+      "code": "G0Y",
+      "description": "L\u0027Érable"
+    },
+    {
+      "code": "G0Z",
+      "description": "Centre-du-Québec-Nord"
+    },
+    {
+      "code": "G1A",
+      "description": "Quebec Provincial, Government"
+    },
+    {
+      "code": "G1B",
+      "description": "Beauport, North"
+    },
+    {
+      "code": "G1C",
+      "description": "Beauport, Central"
+    },
+    {
+      "code": "G1E",
+      "description": "Beauport, South"
+    },
+    {
+      "code": "G1G",
+      "description": "Quebec City, Southeast"
+    },
+    {
+      "code": "G1H",
+      "description": "Charlesbourg, South"
+    },
+    {
+      "code": "G1J",
+      "description": "Quebec City, Lower Riverbank"
+    },
+    {
+      "code": "G1K",
+      "description": "Quebec City, Mid-Riverbank"
+    },
+    {
+      "code": "G1L",
+      "description": "Quebec City, Northeast"
+    },
+    {
+      "code": "G1M",
+      "description": "Quebec City, North Central"
+    },
+    {
+      "code": "G1N",
+      "description": "Quebec City, South Central"
+    },
+    {
+      "code": "G1P",
+      "description": "Quebec City, West"
+    },
+    {
+      "code": "G1R",
+      "description": "Quebec City, East"
+    },
+    {
+      "code": "G1S",
+      "description": "Quebec City, South"
+    },
+    {
+      "code": "G1T",
+      "description": "Quebec City, Upper Riverbank"
+    },
+    {
+      "code": "G1V",
+      "description": "Sainte-Foy, Northeast"
+    },
+    {
+      "code": "G1W",
+      "description": "Sainte-Foy, Southeast"
+    },
+    {
+      "code": "G1X",
+      "description": "Sainte-Foy, West"
+    },
+    {
+      "code": "G1Y",
+      "description": "Cap-Rouge"
+    },
+    {
+      "code": "G2A",
+      "description": "Loretteville, North"
+    },
+    {
+      "code": "G2B",
+      "description": "Loretteville, South"
+    },
+    {
+      "code": "G2C",
+      "description": "Quebec City, Northwest"
+    },
+    {
+      "code": "G2E",
+      "description": "L\u0027Ancienne-Lorette, Northeast"
+    },
+    {
+      "code": "G2G",
+      "description": "L\u0027Ancienne-Lorette, Southwest (YQB)"
+    },
+    {
+      "code": "G2J",
+      "description": "Quebec City, Inner North"
+    },
+    {
+      "code": "G2K",
+      "description": "Quebec City, Outer North"
+    },
+    {
+      "code": "G2L",
+      "description": "Charlesbourg, North"
+    },
+    {
+      "code": "G2M",
+      "description": "Quebec City, Northeast"
+    },
+    {
+      "code": "G2N",
+      "description": "Quebec City, West"
+    },
+    {
+      "code": "G3A",
+      "description": "Saint-Augustin-de-Desmaures"
+    },
+    {
+      "code": "G3B",
+      "description": "Lac-Beauport"
+    },
+    {
+      "code": "G3C",
+      "description": "Stoneham-et-Tewkesbury"
+    },
+    {
+      "code": "G3E",
+      "description": "Saint-Émile"
+    },
+    {
+      "code": "G3G",
+      "description": "Lac-Saint-Charles"
+    },
+    {
+      "code": "G3H",
+      "description": "Pont-Rouge"
+    },
+    {
+      "code": "G3J",
+      "description": "Val-Bélair, North"
+    },
+    {
+      "code": "G3K",
+      "description": "Val-Bélair, South"
+    },
+    {
+      "code": "G3L",
+      "description": "Saint-Raymond"
+    },
+    {
+      "code": "G3M",
+      "description": "Donnacona"
+    },
+    {
+      "code": "G3N",
+      "description": "Sainte-Catherine-de-la-Jacques-Cartier"
+    },
+    {
+      "code": "G3Z",
+      "description": "Baie-Saint-Paul"
+    },
+    {
+      "code": "G4A",
+      "description": "Clermont"
+    },
+    {
+      "code": "G4R",
+      "description": "Sept-Îles, Southeast"
+    },
+    {
+      "code": "G4S",
+      "description": "Sept-Îles, Northwest"
+    },
+    {
+      "code": "G4T",
+      "description": "Les Îles-de-la-Madeleine"
+    },
+    {
+      "code": "G4V",
+      "description": "Sainte-Anne-des-Monts"
+    },
+    {
+      "code": "G4W",
+      "description": "Matane"
+    },
+    {
+      "code": "G4X",
+      "description": "Gaspé"
+    },
+    {
+      "code": "G4Z",
+      "description": "Baie-Comeau, Northeast"
+    },
+    {
+      "code": "G5A",
+      "description": "La Malbaie"
+    },
+    {
+      "code": "G5B",
+      "description": "Port-Cartier"
+    },
+    {
+      "code": "G5C",
+      "description": "Baie-Comeau, Southwest"
+    },
+    {
+      "code": "G5H",
+      "description": "Mont-Joli"
+    },
+    {
+      "code": "G5J",
+      "description": "Amqui"
+    },
+    {
+      "code": "G5L",
+      "description": "Rimouski, Central"
+    },
+    {
+      "code": "G5M",
+      "description": "Rimouski, Northeast"
+    },
+    {
+      "code": "G5N",
+      "description": "Rimouski, Southwest"
+    },
+    {
+      "code": "G5R",
+      "description": "Rivière-du-Loup"
+    },
+    {
+      "code": "G5T",
+      "description": "Dégelis"
+    },
+    {
+      "code": "G5V",
+      "description": "Montmagny"
+    },
+    {
+      "code": "G5X",
+      "description": "Beauceville"
+    },
+    {
+      "code": "G5Y",
+      "description": "Saint-Georges, Central"
+    },
+    {
+      "code": "G5Z",
+      "description": "Saint-Georges, Southeast"
+    },
+    {
+      "code": "G6A",
+      "description": "Saint-Georges, Northwest"
+    },
+    {
+      "code": "G6B",
+      "description": "Lac-Mégantic"
+    },
+    {
+      "code": "G6C",
+      "description": "Pintendre"
+    },
+    {
+      "code": "G6E",
+      "description": "Sainte-Marie"
+    },
+    {
+      "code": "G6G",
+      "description": "Thetford Mines"
+    },
+    {
+      "code": "G6H",
+      "description": "Black Lake"
+    },
+    {
+      "code": "G6J",
+      "description": "Saint-Étienne-de-Lauzon"
+    },
+    {
+      "code": "G6K",
+      "description": "Saint-Redempteur"
+    },
+    {
+      "code": "G6L",
+      "description": "Plessisville"
+    },
+    {
+      "code": "G6P",
+      "description": "Victoriaville, Central"
+    },
+    {
+      "code": "G6R",
+      "description": "Victoriaville, South"
+    },
+    {
+      "code": "G6S",
+      "description": "Victoriaville, East"
+    },
+    {
+      "code": "G6T",
+      "description": "Victoriaville, Northwest"
+    },
+    {
+      "code": "G6V",
+      "description": "Lévis, North"
+    },
+    {
+      "code": "G6W",
+      "description": "Lévis, South"
+    },
+    {
+      "code": "G6X",
+      "description": "Charny"
+    },
+    {
+      "code": "G6Y",
+      "description": "Lévis"
+    },
+    {
+      "code": "G6Z",
+      "description": "Saint-Jean-Chrysostome"
+    },
+    {
+      "code": "G7A",
+      "description": "Saint-Nicolas"
+    },
+    {
+      "code": "G7B",
+      "description": "La Baie"
+    },
+    {
+      "code": "G7G",
+      "description": "Chicoutimi, North"
+    },
+    {
+      "code": "G7H",
+      "description": "Chicoutimi, East"
+    },
+    {
+      "code": "G7J",
+      "description": "Chicoutimi, West"
+    },
+    {
+      "code": "G7K",
+      "description": "Chicoutimi, Southwest"
+    },
+    {
+      "code": "G7N",
+      "description": "Laterrière"
+    },
+    {
+      "code": "G7P",
+      "description": "Saint-Ambroise"
+    },
+    {
+      "code": "G7S",
+      "description": "Jonquière, Northeast"
+    },
+    {
+      "code": "G7T",
+      "description": "Jonquière, Southeast"
+    },
+    {
+      "code": "G7X",
+      "description": "Jonquière, Central"
+    },
+    {
+      "code": "G7Y",
+      "description": "Jonquière, Southwest"
+    },
+    {
+      "code": "G7Z",
+      "description": "Jonquière, Northwest"
+    },
+    {
+      "code": "G8A",
+      "description": "Jonquière, West"
+    },
+    {
+      "code": "G8B",
+      "description": "Alma, Southeast"
+    },
+    {
+      "code": "G8C",
+      "description": "Alma, Southwest"
+    },
+    {
+      "code": "G8E",
+      "description": "Alma, North"
+    },
+    {
+      "code": "G8G",
+      "description": "MétabetchouanLac-à-la-Croix"
+    },
+    {
+      "code": "G8H",
+      "description": "Roberval"
+    },
+    {
+      "code": "G8J",
+      "description": "Saint-Prime"
+    },
+    {
+      "code": "G8K",
+      "description": "Saint-Félicien"
+    },
+    {
+      "code": "G8L",
+      "description": "Dolbeau-Mistassini"
+    },
+    {
+      "code": "G8M",
+      "description": "Albanel"
+    },
+    {
+      "code": "G8N",
+      "description": "Hébertville"
+    },
+    {
+      "code": "G8P",
+      "description": "Chibougamau"
+    },
+    {
+      "code": "G8T",
+      "description": "Cap-de-la-Madeleine, Central and southeast"
+    },
+    {
+      "code": "G8V",
+      "description": "Cap-de-la-Madeleine, Northeast"
+    },
+    {
+      "code": "G8W",
+      "description": "Cap-de-la-Madeleine, West"
+    },
+    {
+      "code": "G8Y",
+      "description": "Trois-Rivières, Central"
+    },
+    {
+      "code": "G8Z",
+      "description": "Trois-Rivières, Northeast"
+    },
+    {
+      "code": "G9A",
+      "description": "Trois-Rivières, East"
+    },
+    {
+      "code": "G9B",
+      "description": "Trois-Rivières, South"
+    },
+    {
+      "code": "G9C",
+      "description": "Trois-Rivières, West"
+    },
+    {
+      "code": "G9H",
+      "description": "Bécancour"
+    },
+    {
+      "code": "G9N",
+      "description": "Shawinigan, Central"
+    },
+    {
+      "code": "G9P",
+      "description": "Shawinigan, Southeast"
+    },
+    {
+      "code": "G9R",
+      "description": "Shawinigan, Northwest"
+    },
+    {
+      "code": "G9T",
+      "description": "Grand-Mère"
+    },
+    {
+      "code": "G9X",
+      "description": "La Tuque"
+    }
+  ]
+}

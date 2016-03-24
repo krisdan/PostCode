@@ -1,0 +1,265 @@
+{
+  "name": "FSAListR",
+  "fsaList": [
+    {
+      "code": "R0A",
+      "description": "Southeastern Manitoba"
+    },
+    {
+      "code": "R0B",
+      "description": "Northern Manitoba"
+    },
+    {
+      "code": "R0C",
+      "description": "North Interlake"
+    },
+    {
+      "code": "R0E",
+      "description": "Eastern Manitoba"
+    },
+    {
+      "code": "R0G",
+      "description": "South Central Manitoba"
+    },
+    {
+      "code": "R0H",
+      "description": "South Interlake"
+    },
+    {
+      "code": "R0J",
+      "description": "Riding Mountain"
+    },
+    {
+      "code": "R0K",
+      "description": "Brandon Region"
+    },
+    {
+      "code": "R0L",
+      "description": "Western Manitoba"
+    },
+    {
+      "code": "R0M",
+      "description": "Southwestern Manitoba"
+    },
+    {
+      "code": "R1A",
+      "description": "Selkirk"
+    },
+    {
+      "code": "R1B",
+      "description": "Lockport"
+    },
+    {
+      "code": "R1C",
+      "description": "Narol"
+    },
+    {
+      "code": "R1N",
+      "description": "Portage la Prairie"
+    },
+    {
+      "code": "R2C",
+      "description": "Winnipeg (Transcona)"
+    },
+    {
+      "code": "R2E",
+      "description": "East St. Paul"
+    },
+    {
+      "code": "R2G",
+      "description": "Winnipeg (River East North)"
+    },
+    {
+      "code": "R2H",
+      "description": "Winnipeg (St. Boniface NW)"
+    },
+    {
+      "code": "R2J",
+      "description": "Winnipeg(St. Boniface NE)"
+    },
+    {
+      "code": "R2K",
+      "description": "Winnipeg(River East Central)"
+    },
+    {
+      "code": "R2L",
+      "description": "Winnipeg (River East Central)"
+    },
+    {
+      "code": "R2M",
+      "description": "Winnipeg (St. Vital North)"
+    },
+    {
+      "code": "R2N",
+      "description": "Winnipeg(St. Vital SW)"
+    },
+    {
+      "code": "R2P",
+      "description": "Winnipeg(Seven Oaks West)"
+    },
+    {
+      "code": "R2R",
+      "description": "Winnipeg (Inkster West)"
+    },
+    {
+      "code": "R2V",
+      "description": "Winnipeg (Seven Oaks East)"
+    },
+    {
+      "code": "R2W",
+      "description": "Winnipeg (Point Douglas East)"
+    },
+    {
+      "code": "R2X",
+      "description": "Winnipeg (Point Douglas West / Inkster East)"
+    },
+    {
+      "code": "R2Y",
+      "description": "Winnipeg (St. James-Assiniboia NW)"
+    },
+    {
+      "code": "R3A",
+      "description": "Winnipeg (Centennial)"
+    },
+    {
+      "code": "R3B",
+      "description": "Winnipeg (Chinatown / Civic Centre / Exchange District / University of Winnipeg)"
+    },
+    {
+      "code": "R3C",
+      "description": "Winnipeg (Broadway / The Forks / Portage and Main) Manitoba Provincial Government"
+    },
+    {
+      "code": "R3E",
+      "description": "Winnipeg (Sargent Park / Daniel McIntyre / Inkster SE)"
+    },
+    {
+      "code": "R3G",
+      "description": "Winnipeg (Minto / St. Mathews / Wolseley)"
+    },
+    {
+      "code": "R3H",
+      "description": "Winnipeg (St. James-Assiniboia NE / YWG)"
+    },
+    {
+      "code": "R3J",
+      "description": "Winnipeg(St. James-Assiniboia SE)"
+    },
+    {
+      "code": "R3K",
+      "description": "Winnipeg(St. James-Assiniboia SW)"
+    },
+    {
+      "code": "R3L",
+      "description": "Winnipeg (St. James-Assiniboia SW)"
+    },
+    {
+      "code": "R3M",
+      "description": "Winnipeg(Crescentwood Central)"
+    },
+    {
+      "code": "R3N",
+      "description": "Winnipeg(River Heights West)"
+    },
+    {
+      "code": "R3P",
+      "description": "Winnipeg(Fort Garry NW / Tuxedo)"
+    },
+    {
+      "code": "R3R",
+      "description": "Winnipeg (Assiniboine South / Betsworth)"
+    },
+    {
+      "code": "R3S",
+      "description": "Winnipeg (Wilkes South)"
+    },
+    {
+      "code": "R3T",
+      "description": "Winnipeg (Fort Garry NE / University of Manitoba)"
+    },
+    {
+      "code": "R3V",
+      "description": "Winnipeg (Fort Garry South)"
+    },
+    {
+      "code": "R3W",
+      "description": "Winnipeg (Grassie / Pequis)"
+    },
+    {
+      "code": "R3X",
+      "description": "Winnipeg (St. Boniface South / St. Vital SE)"
+    },
+    {
+      "code": "R3Y",
+      "description": "Winnipeg (Fort Garry West)"
+    },
+    {
+      "code": "R4A",
+      "description": "West St. Paul"
+    },
+    {
+      "code": "R4H",
+      "description": "Headingley, East"
+    },
+    {
+      "code": "R4J",
+      "description": "Headingley, West"
+    },
+    {
+      "code": "R4K",
+      "description": "Cartier"
+    },
+    {
+      "code": "R4L",
+      "description": "Cartier"
+    },
+    {
+      "code": "R5A",
+      "description": "St. Adolphe"
+    },
+    {
+      "code": "R5G",
+      "description": "Steinbach"
+    },
+    {
+      "code": "R5H",
+      "description": "Ste. Anne"
+    },
+    {
+      "code": "R6M",
+      "description": "Morden"
+    },
+    {
+      "code": "R6W",
+      "description": "Winkler"
+    },
+    {
+      "code": "R7A",
+      "description": "Brandon, East and vicinity"
+    },
+    {
+      "code": "R7B",
+      "description": "Brandon, South"
+    },
+    {
+      "code": "R7C",
+      "description": "Brandon, Northwest"
+    },
+    {
+      "code": "R7N",
+      "description": "Dauphin"
+    },
+    {
+      "code": "R8A",
+      "description": "Flin Flon"
+    },
+    {
+      "code": "R8N",
+      "description": "Thompson"
+    },
+    {
+      "code": "R9A",
+      "description": "The Pas"
+    }
+  ]
+}

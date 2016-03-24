@@ -1,0 +1,649 @@
+{
+  "name": "FSAListL",
+  "fsaList": [
+    {
+      "code": "L0A",
+      "description": "West Northumberland County / South Kawartha Lakes"
+    },
+    {
+      "code": "L0B",
+      "description": "East Durham Region"
+    },
+    {
+      "code": "L0C",
+      "description": "West Durham Region"
+    },
+    {
+      "code": "L0E",
+      "description": "Lake Simcoe Southeast Shore"
+    },
+    {
+      "code": "L0G",
+      "description": "Ontario Centre"
+    },
+    {
+      "code": "L0H",
+      "description": "York/Durham Boundary South"
+    },
+    {
+      "code": "L0J",
+      "description": "Peel/York Boundary South"
+    },
+    {
+      "code": "L0K",
+      "description": "Lake Simcoe North Shore"
+    },
+    {
+      "code": "L0L",
+      "description": "Lake Simcoe West Shore"
+    },
+    {
+      "code": "L0M",
+      "description": "Georgian Bay South Shore"
+    },
+    {
+      "code": "L0N",
+      "description": "Peel/Dufferin Boundary West"
+    },
+    {
+      "code": "L0P",
+      "description": "Halton Region / Halton/Peel Boundary North"
+    },
+    {
+      "code": "L0R",
+      "description": "East Haldimand County / Northwest Niagara Region / Most of rural Hamilton"
+    },
+    {
+      "code": "L0S",
+      "description": "South and Northeast Niagara Region"
+    },
+    {
+      "code": "L1A",
+      "description": "Port Hope"
+    },
+    {
+      "code": "L1B",
+      "description": "Bowmanville, East"
+    },
+    {
+      "code": "L1C",
+      "description": "Bowmanville, West"
+    },
+    {
+      "code": "L1E",
+      "description": "Courtice"
+    },
+    {
+      "code": "L1G",
+      "description": "Oshawa, Central"
+    },
+    {
+      "code": "L1H",
+      "description": "Oshawa, Southeast"
+    },
+    {
+      "code": "L1J",
+      "description": "Oshawa, Southwest"
+    },
+    {
+      "code": "L1K",
+      "description": "Oshawa, East"
+    },
+    {
+      "code": "L1L",
+      "description": "Oshawa, North"
+    },
+    {
+      "code": "L1M",
+      "description": "Whitby, North"
+    },
+    {
+      "code": "L1N",
+      "description": "Whitby, Southeast"
+    },
+    {
+      "code": "L1P",
+      "description": "Whitby, Southwest"
+    },
+    {
+      "code": "L1R",
+      "description": "Whitby, Central"
+    },
+    {
+      "code": "L1S",
+      "description": "Ajax, Southwest"
+    },
+    {
+      "code": "L1T",
+      "description": "Ajax, Northwest"
+    },
+    {
+      "code": "L1V",
+      "description": "Pickering, Southwest"
+    },
+    {
+      "code": "L1W",
+      "description": "Pickering, South"
+    },
+    {
+      "code": "L1X",
+      "description": "Pickering, Central"
+    },
+    {
+      "code": "L1Y",
+      "description": "Pickering, North"
+    },
+    {
+      "code": "L1Z",
+      "description": "Ajax, East"
+    },
+    {
+      "code": "L2A",
+      "description": "Fort Erie"
+    },
+    {
+      "code": "L2E",
+      "description": "Niagara Falls, Central"
+    },
+    {
+      "code": "L2G",
+      "description": "Niagara Falls, Southeast"
+    },
+    {
+      "code": "L2H",
+      "description": "Niagara Falls, West"
+    },
+    {
+      "code": "L2J",
+      "description": "Niagara Falls, North"
+    },
+    {
+      "code": "L2M",
+      "description": "St. Catharines, (East North End / Port Weller / Facer)"
+    },
+    {
+      "code": "L2N",
+      "description": "St. Catharines, (West North End / Port Dalhousie / St. George\u0027s Point / Michigan Beach) / Lancaster / North Martindale)"
+    },
+    {
+      "code": "L2P",
+      "description": "St. Catharines (East Queenston / Kernahan / Lock 3, Oakdale / Secord Woods / East Merritton)"
+    },
+    {
+      "code": "L2R",
+      "description": "St. Catharines, (Downtown / West Queenston / Fitzgerald / Orchard Park / Haig / North Glenridge)"
+    },
+    {
+      "code": "L2S",
+      "description": "St. Catharines, (Southeast Martindale / Vansickle / West Power Glen / Western Hill)"
+    },
+    {
+      "code": "L2T",
+      "description": "St. Catharines, (South Glenridge / East Power Glen / Riverview / Marsdale / Brockview / Barbican Heights / Burleigh Hill / West Merritton)"
+    },
+    {
+      "code": "L2V",
+      "description": "St. Catharines, (Thorold)"
+    },
+    {
+      "code": "L2W",
+      "description": "St. Catharines, (Southwest Martindale)"
+    },
+    {
+      "code": "L3B",
+      "description": "Welland, East"
+    },
+    {
+      "code": "L3C",
+      "description": "Welland, West"
+    },
+    {
+      "code": "L3K",
+      "description": "Port Colborne"
+    },
+    {
+      "code": "L3M",
+      "description": "Grimsby"
+    },
+    {
+      "code": "L3P",
+      "description": "Markham, Central"
+    },
+    {
+      "code": "L3R",
+      "description": "Markham, Outer Southwest"
+    },
+    {
+      "code": "L3S",
+      "description": "Markham, Southeast Armadale, Ontario Milliken, Ontario"
+    },
+    {
+      "code": "L3T",
+      "description": "Thornhill, East"
+    },
+    {
+      "code": "L3V",
+      "description": "Orillia"
+    },
+    {
+      "code": "L3X",
+      "description": "Newmarket, Southwest"
+    },
+    {
+      "code": "L3Y",
+      "description": "Newmarket, Northeast"
+    },
+    {
+      "code": "L3Z",
+      "description": "Bradford"
+    },
+    {
+      "code": "L4A",
+      "description": "Stouffville"
+    },
+    {
+      "code": "L4B",
+      "description": "Richmond Hill, Southeast"
+    },
+    {
+      "code": "L4C",
+      "description": "Richmond Hill, Southwest"
+    },
+    {
+      "code": "L4E",
+      "description": "Richmond Hill, North (Oak Ridges / Lake Wilcox / Temperanceville)"
+    },
+    {
+      "code": "L4G",
+      "description": "Aurora"
+    },
+    {
+      "code": "L4H",
+      "description": "Kleinburg, Woodbridge North"
+    },
+    {
+      "code": "L4J",
+      "description": "Thornhill, West"
+    },
+    {
+      "code": "L4K",
+      "description": "Concord"
+    },
+    {
+      "code": "L4L",
+      "description": "Woodbridge, South"
+    },
+    {
+      "code": "L4M",
+      "description": "Barrie, North"
+    },
+    {
+      "code": "L4N",
+      "description": "Barrie, South"
+    },
+    {
+      "code": "L4P",
+      "description": "Keswick"
+    },
+    {
+      "code": "L4R",
+      "description": "Midland"
+    },
+    {
+      "code": "L4S",
+      "description": "Richmond Hill, Central"
+    },
+    {
+      "code": "L4T",
+      "description": "Mississauga, (Malton)"
+    },
+    {
+      "code": "L4V",
+      "description": "Mississauga, (Wildwood)"
+    },
+    {
+      "code": "L4W",
+      "description": "Mississauga, (Matheson / East Rathwood)"
+    },
+    {
+      "code": "L4X",
+      "description": "Mississauga, (East Applewood / East Dixie / NE Lakeview)"
+    },
+    {
+      "code": "L4Y",
+      "description": "Mississauga, (West Applewood / West Dixie / NW Lakeview)"
+    },
+    {
+      "code": "L4Z",
+      "description": "Mississauga, (West Rathwood / East Hurontario / SE Gateway / Sandalwood)"
+    },
+    {
+      "code": "L5A",
+      "description": "Mississauga, (Mississauga Valley / East Cooksville)"
+    },
+    {
+      "code": "L5B",
+      "description": "Mississauga, (West Cooksville / Fairview / City Centre / East Creditview)"
+    },
+    {
+      "code": "L5C",
+      "description": "Mississauga, (West Creditview / Mavis / Erindale)"
+    },
+    {
+      "code": "L5E",
+      "description": "Mississauga, (Central Lakeview)"
+    },
+    {
+      "code": "L5G",
+      "description": "Mississauga, (SW Lakeview / Mineola / East Port Credit)"
+    },
+    {
+      "code": "L5H",
+      "description": "Mississauga, (West Port Credit / Lorne Park / East Sheridan)"
+    },
+    {
+      "code": "L5J",
+      "description": "Mississauga, (Clarkson / Southdown)"
+    },
+    {
+      "code": "L5K",
+      "description": "Mississauga, (West Sheridan)"
+    },
+    {
+      "code": "L5L",
+      "description": "Mississauga, (Erin Mills / Western Business Park)"
+    },
+    {
+      "code": "L5M",
+      "description": "Mississauga, (Churchill Meadows / Central Erin Mills / South Streetsville)"
+    },
+    {
+      "code": "L5N",
+      "description": "Mississauga, (Lisgar / Meadowvale)"
+    },
+    {
+      "code": "L5P",
+      "description": "Mississauga (YYZ)"
+    },
+    {
+      "code": "L5R",
+      "description": "Mississauga, (West Hurontario / SW Gateway)"
+    },
+    {
+      "code": "L5S",
+      "description": "Mississauga, (Cardiff / NE Gateway)"
+    },
+    {
+      "code": "L5T",
+      "description": "Mississauga, (Courtney Park / East Gateway)"
+    },
+    {
+      "code": "L5V",
+      "description": "Mississauga, (East Credit)"
+    },
+    {
+      "code": "L5W",
+      "description": "Mississauga, (Meadowvale Village / West Gateway)"
+    },
+    {
+      "code": "L6A",
+      "description": "Maple"
+    },
+    {
+      "code": "L6B",
+      "description": "Markham, East Cornell, Ontario Box Grove, Ontario"
+    },
+    {
+      "code": "L6C",
+      "description": "Markham, Northwest, (Berczy Village; Cachet; Angus Glen)"
+    },
+    {
+      "code": "L6E",
+      "description": "Markham, Northeast (Wismer Commons"
+    },
+    {
+      "code": "L6G",
+      "description": "Markham, Centre (Downtown Markham; Markham Centre)"
+    },
+    {
+      "code": "L6H",
+      "description": "Oakville, North"
+    },
+    {
+      "code": "L6J",
+      "description": "Oakville, Northeast"
+    },
+    {
+      "code": "L6K",
+      "description": "Oakville, East"
+    },
+    {
+      "code": "L6L",
+      "description": "Oakville, South"
+    },
+    {
+      "code": "L6M",
+      "description": "Oakville, West"
+    },
+    {
+      "code": "L6P",
+      "description": "Brampton, North"
+    },
+    {
+      "code": "L6R",
+      "description": "Brampton, Northwest"
+    },
+    {
+      "code": "L6S",
+      "description": "Brampton, North Central"
+    },
+    {
+      "code": "L6T",
+      "description": "Brampton, East"
+    },
+    {
+      "code": "L6V",
+      "description": "Brampton, Central"
+    },
+    {
+      "code": "L6W",
+      "description": "Brampton, Southeast"
+    },
+    {
+      "code": "L6X",
+      "description": "Brampton, Southwest"
+    },
+    {
+      "code": "L6Y",
+      "description": "Brampton, South"
+    },
+    {
+      "code": "L6Z",
+      "description": "Brampton, West Central"
+    },
+    {
+      "code": "L7A",
+      "description": "Brampton, West"
+    },
+    {
+      "code": "L7B",
+      "description": "King City"
+    },
+    {
+      "code": "L7C",
+      "description": "Caledon"
+    },
+    {
+      "code": "L7E",
+      "description": "Bolton"
+    },
+    {
+      "code": "L7G",
+      "description": "Georgetown"
+    },
+    {
+      "code": "L7J",
+      "description": "Acton"
+    },
+    {
+      "code": "L7K",
+      "description": "Caledon Village"
+    },
+    {
+      "code": "L7L",
+      "description": "Burlington, Northeast"
+    },
+    {
+      "code": "L7M",
+      "description": "Burlington, North"
+    },
+    {
+      "code": "L7N",
+      "description": "Burlington, East"
+    },
+    {
+      "code": "L7P",
+      "description": "Burlington, West"
+    },
+    {
+      "code": "L7R",
+      "description": "Burlington, Southeast"
+    },
+    {
+      "code": "L7S",
+      "description": "Burlington, South"
+    },
+    {
+      "code": "L7T",
+      "description": "Burlington, Southwest"
+    },
+    {
+      "code": "L8E",
+      "description": "Hamilton, (Confederation Park / Nashdale / East Kentley / Riverdale / Lakely / Grayside / North Stoney Creek)"
+    },
+    {
+      "code": "L8G",
+      "description": "Hamilton, (Greenford / North Gershome / West Stoney Creek)"
+    },
+    {
+      "code": "L8H",
+      "description": "Hamilton, (West Kentley / McQuesten / Parkview / Hamilton Beach / East Industrial Sector / Normanhurst / Homeside / East Crown Point)"
+    },
+    {
+      "code": "L8J",
+      "description": "Hamilton, (East Albion Falls / South Stoney Creek)"
+    },
+    {
+      "code": "L8K",
+      "description": "Hamilton, (East Delta / Bartonville / Glenview / Rosedale / Lower King\u0027s Forest / Red Hill / Corman / Vincent / South Gershome)"
+    },
+    {
+      "code": "L8L",
+      "description": "Hamilton, (West Industrial Sector / West Crown Point / North Stipley / North Gibson / Landsdale / Keith / North End / Beasley)"
+    },
+    {
+      "code": "L8M",
+      "description": "Hamilton, (West Delta / Blakeley / South Stipley / South Gibson / St. Clair)"
+    },
+    {
+      "code": "L8N",
+      "description": "Hamilton, (Stinson / Corktown)"
+    },
+    {
+      "code": "L8P",
+      "description": "Hamilton, (Durand / Kirkendall / Chedoke Park)"
+    },
+    {
+      "code": "L8R",
+      "description": "Hamilton, (Central / Strathcona / South Dundurn)"
+    },
+    {
+      "code": "L8S",
+      "description": "Hamilton, (Westdale / Cootes Paradise / Ainslie Wood / McMaster University)"
+    },
+    {
+      "code": "L8T",
+      "description": "Hamilton, (Sherwood / Huntington / Upper King\u0027s Forest / Lisgar / Berrisfield / Hampton Heights / Sunninghill)"
+    },
+    {
+      "code": "L8V",
+      "description": "Hamilton, (Raleigh / Macassa / Lawfield / Thorner / Burkholme / Eastmount)"
+    },
+    {
+      "code": "L8W",
+      "description": "Hamilton, (West Albion Falls / Hannon / Rymal / Trenholme / Quinndale / Templemead / Broughton / Eleanor / Randall / Rushdale / Butler / East Chappel)"
+    },
+    {
+      "code": "L9A",
+      "description": "Hamilton, (Crerar / Bruleville / Hill Park / Inch Park / Centremount / Balfour / Greeningdon / Jerome)"
+    },
+    {
+      "code": "L9B",
+      "description": "Hamilton, (Barnstown / West Chappel / Allison / Ryckmans / Mewburn / Sheldon / Falkirk / Carpenter / Kennedy / Southwest Outskirts)"
+    },
+    {
+      "code": "L9C",
+      "description": "Hamilton, (Southam / Bonnington / Yeoville / Kernighan / Gourley / Rolston / Buchanan / Mohawk / Westcliffe / Gilbert / Gilkson / Gurnett / Fessenden / Mountview)"
+    },
+    {
+      "code": "L9G",
+      "description": "Ancaster, West"
+    },
+    {
+      "code": "L9H",
+      "description": "Dundas"
+    },
+    {
+      "code": "L9J",
+      "description": "Barrie, South"
+    },
+    {
+      "code": "L9K",
+      "description": "Ancaster, East"
+    },
+    {
+      "code": "L9L",
+      "description": "Port Perry"
+    },
+    {
+      "code": "L9M",
+      "description": "Penetanguishene"
+    },
+    {
+      "code": "L9N",
+      "description": "East Gwillimbury, (Holland Landing / River Drive Park)"
+    },
+    {
+      "code": "L9P",
+      "description": "Uxbridge"
+    },
+    {
+      "code": "L9R",
+      "description": "Alliston"
+    },
+    {
+      "code": "L9S",
+      "description": "Innisfil"
+    },
+    {
+      "code": "L9T",
+      "description": "Milton"
+    },
+    {
+      "code": "L9V",
+      "description": "Orangeville, North"
+    },
+    {
+      "code": "L9W",
+      "description": "Orangeville, South"
+    },
+    {
+      "code": "L9Y",
+      "description": "Collingwood"
+    },
+    {
+      "code": "L9Z",
+      "description": "Wasaga Beach"
+    }
+  ]
+}

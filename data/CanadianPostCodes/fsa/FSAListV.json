@@ -1,0 +1,765 @@
+{
+  "name": "FSAListV",
+  "fsaList": [
+    {
+      "code": "V0A",
+      "description": "Upper Columbia Region"
+    },
+    {
+      "code": "V0B",
+      "description": "East Kootenays"
+    },
+    {
+      "code": "V0C",
+      "description": "Northern British Columbia"
+    },
+    {
+      "code": "V0E",
+      "description": "High Country, Shuswap and Northeast Okanagan"
+    },
+    {
+      "code": "V0G",
+      "description": "West Kootenays"
+    },
+    {
+      "code": "V0H",
+      "description": "Southeast Okanagan and Boundary Country"
+    },
+    {
+      "code": "V0J",
+      "description": "Omineca and Yellowhead"
+    },
+    {
+      "code": "V0K",
+      "description": "Cariboo, Fraser Canyon and Western Okanagan"
+    },
+    {
+      "code": "V0L",
+      "description": "Chilcotin"
+    },
+    {
+      "code": "V0M",
+      "description": "Harrison Lake Region"
+    },
+    {
+      "code": "V0N",
+      "description": "North Vancouver Island, Sunshine Coast, Sea-to-Sky Country and Southern Gulf Islands"
+    },
+    {
+      "code": "V0P",
+      "description": "North Central Vancouver Island and Discovery Islands"
+    },
+    {
+      "code": "V0R",
+      "description": "Central and South Vancouver Island"
+    },
+    {
+      "code": "V0S",
+      "description": "Juan de Fuca Shore"
+    },
+    {
+      "code": "V0T",
+      "description": "Inside Passage and Haida Gwaii"
+    },
+    {
+      "code": "V0V",
+      "description": "Lower Skeena Region"
+    },
+    {
+      "code": "V0W",
+      "description": "Atlin Region"
+    },
+    {
+      "code": "V0X",
+      "description": "Similkameen Region"
+    },
+    {
+      "code": "V1A",
+      "description": "Kimberley"
+    },
+    {
+      "code": "V1B",
+      "description": "Vernon, East"
+    },
+    {
+      "code": "V1C",
+      "description": "Cranbrook"
+    },
+    {
+      "code": "V1E",
+      "description": "Salmon Arm"
+    },
+    {
+      "code": "V1G",
+      "description": "Dawson Creek"
+    },
+    {
+      "code": "V1H",
+      "description": "Vernon, West"
+    },
+    {
+      "code": "V1J",
+      "description": "Fort St. John"
+    },
+    {
+      "code": "V1K",
+      "description": "Merritt"
+    },
+    {
+      "code": "V1L",
+      "description": "Nelson"
+    },
+    {
+      "code": "V1M",
+      "description": "Langley Township, North"
+    },
+    {
+      "code": "V1N",
+      "description": "Castlegar"
+    },
+    {
+      "code": "V1P",
+      "description": "Kelowna, East"
+    },
+    {
+      "code": "V1R",
+      "description": "Trail"
+    },
+    {
+      "code": "V1S",
+      "description": "Kamloops, Southwest"
+    },
+    {
+      "code": "V1T",
+      "description": "Vernon, Central"
+    },
+    {
+      "code": "V1V",
+      "description": "Kelowna, North"
+    },
+    {
+      "code": "V1W",
+      "description": "Kelowna, Southwest"
+    },
+    {
+      "code": "V1X",
+      "description": "Kelowna, East Central"
+    },
+    {
+      "code": "V1Y",
+      "description": "Kelowna, Central"
+    },
+    {
+      "code": "V1Z",
+      "description": "West Kelowna, East"
+    },
+    {
+      "code": "V2A",
+      "description": "Penticton"
+    },
+    {
+      "code": "V2B",
+      "description": "Kamloops, Northwest"
+    },
+    {
+      "code": "V2C",
+      "description": "Kamloops, Central and Southeast"
+    },
+    {
+      "code": "V2E",
+      "description": "Kamloops, South and West"
+    },
+    {
+      "code": "V2G",
+      "description": "Williams Lake"
+    },
+    {
+      "code": "V2H",
+      "description": "Kamloops, North"
+    },
+    {
+      "code": "V2J",
+      "description": "Quesnel"
+    },
+    {
+      "code": "V2K",
+      "description": "Prince George, North"
+    },
+    {
+      "code": "V2L",
+      "description": "Prince George, East Central"
+    },
+    {
+      "code": "V2M",
+      "description": "Prince George, West Central"
+    },
+    {
+      "code": "V2N",
+      "description": "Prince George, South"
+    },
+    {
+      "code": "V2P",
+      "description": "Chilliwack, Central"
+    },
+    {
+      "code": "V2R",
+      "description": "Chilliwack, West"
+    },
+    {
+      "code": "V2S",
+      "description": "Abbotsford, Southeast"
+    },
+    {
+      "code": "V2T",
+      "description": "Abbotsford, Southwest"
+    },
+    {
+      "code": "V2V",
+      "description": "Mission, East"
+    },
+    {
+      "code": "V2W",
+      "description": "Maple Ridge, East"
+    },
+    {
+      "code": "V2X",
+      "description": "Maple Ridge, West"
+    },
+    {
+      "code": "V2Y",
+      "description": "Langley Township, Northwest"
+    },
+    {
+      "code": "V2Z",
+      "description": "Langley Township, Southwest"
+    },
+    {
+      "code": "V3A",
+      "description": "Langley City"
+    },
+    {
+      "code": "V3B",
+      "description": "Port Coquitlam, Central"
+    },
+    {
+      "code": "V3C",
+      "description": "Port Coquitlam, South"
+    },
+    {
+      "code": "V3E",
+      "description": "Coquitlam, North"
+    },
+    {
+      "code": "V3G",
+      "description": "Abbotsford, East"
+    },
+    {
+      "code": "V3H",
+      "description": "Port Moody"
+    },
+    {
+      "code": "V3J",
+      "description": "Coquitlam, North"
+    },
+    {
+      "code": "V3K",
+      "description": "Coquitlam, South"
+    },
+    {
+      "code": "V3L",
+      "description": "New Westminster, Northeast"
+    },
+    {
+      "code": "V3M",
+      "description": "New Westminster, Southwest (Includes Annacis Island)"
+    },
+    {
+      "code": "V3N",
+      "description": "Burnaby, (East Big Bend / Stride Avenue / Edmonds / Cariboo-Armstrong)"
+    },
+    {
+      "code": "V3R",
+      "description": "Surrey, North"
+    },
+    {
+      "code": "V3S",
+      "description": "Surrey, Upper East"
+    },
+    {
+      "code": "V3T",
+      "description": "Surrey, Inner Northwest"
+    },
+    {
+      "code": "V3V",
+      "description": "Surrey, Outer Northwest"
+    },
+    {
+      "code": "V3W",
+      "description": "Surrey, Upper West"
+    },
+    {
+      "code": "V3X",
+      "description": "Surrey, Lower West"
+    },
+    {
+      "code": "V3Y",
+      "description": "Pitt Meadows"
+    },
+    {
+      "code": "V3Z",
+      "description": "Surrey, Lower East"
+    },
+    {
+      "code": "V4A",
+      "description": "Surrey, Southwest"
+    },
+    {
+      "code": "V4B",
+      "description": "White Rock"
+    },
+    {
+      "code": "V4C",
+      "description": "Delta, Northeast"
+    },
+    {
+      "code": "V4E",
+      "description": "Delta, East"
+    },
+    {
+      "code": "V4G",
+      "description": "Delta, East Central"
+    },
+    {
+      "code": "V4K",
+      "description": "Delta, Northwest"
+    },
+    {
+      "code": "V4L",
+      "description": "Delta, Southeast"
+    },
+    {
+      "code": "V4M",
+      "description": "Delta, Southwest"
+    },
+    {
+      "code": "V4N",
+      "description": "Surrey, Northeast"
+    },
+    {
+      "code": "V4P",
+      "description": "Surrey, South"
+    },
+    {
+      "code": "V4R",
+      "description": "Maple Ridge, Northwest"
+    },
+    {
+      "code": "V4S",
+      "description": "Mission, West"
+    },
+    {
+      "code": "V4T",
+      "description": "West Kelowna, (Westbank)"
+    },
+    {
+      "code": "V4V",
+      "description": "Winfield"
+    },
+    {
+      "code": "V4W",
+      "description": "Langley Township, East"
+    },
+    {
+      "code": "V4X",
+      "description": "Abbotsford, West"
+    },
+    {
+      "code": "V4Z",
+      "description": "Chilliwack, East"
+    },
+    {
+      "code": "V5A",
+      "description": "Burnaby, (Government Road / Lake City / SFU / Burnaby Mountain)"
+    },
+    {
+      "code": "V5B",
+      "description": "Burnaby, (Parkcrest-Aubrey / Ardingley-Sprott)"
+    },
+    {
+      "code": "V5C",
+      "description": "Burnaby, (Burnaby Heights / Willingdon Heights / West Central Valley)"
+    },
+    {
+      "code": "V5E",
+      "description": "Burnaby, (Lakeview-Mayfield / Richmond Park / Kingsway-Beresford)"
+    },
+    {
+      "code": "V5G",
+      "description": "Burnaby, (Cascade-Schou / Douglas-Gilpin)"
+    },
+    {
+      "code": "V5H",
+      "description": "Burnaby, (Maywood / Marlborough / Oakalla / Windsor)"
+    },
+    {
+      "code": "V5J",
+      "description": "Burnaby, (Suncrest / Sussex-Nelson / Clinton-Glenwood / West Big Bend)"
+    },
+    {
+      "code": "V5K",
+      "description": "Vancouver, (North Hastings-Sunrise)"
+    },
+    {
+      "code": "V5L",
+      "description": "Vancouver, (North Grandview-Woodland)"
+    },
+    {
+      "code": "V5M",
+      "description": "Vancouver, (South Hastings-Sunrise / North Renfrew-Collingwood)"
+    },
+    {
+      "code": "V5N",
+      "description": "Vancouver, (South Grandview-Woodland / NE Kensington-Cedar Cottage)"
+    },
+    {
+      "code": "V5P",
+      "description": "Vancouver, (SE Kensington-Cedar Cottage / Victoria-Fraserview)"
+    },
+    {
+      "code": "V5R",
+      "description": "Vancouver, (South Renfrew-Collingwood)"
+    },
+    {
+      "code": "V5S",
+      "description": "Vancouver, (NW Dunbar-Southlands / Chaldecutt / South University Endowment Lands)"
+    },
+    {
+      "code": "V5T",
+      "description": "Vancouver, (East Mount Pleasant)"
+    },
+    {
+      "code": "V5V",
+      "description": "Vancouver, (West Kensington-Cedar Cottage / NE Riley Park-Little Mountain)"
+    },
+    {
+      "code": "V5W",
+      "description": "Vancouver, (SE Riley Park-Little Mountain / SW Kensington-Cedar Cottage / NE Oakridge / North Sunset)"
+    },
+    {
+      "code": "V5X",
+      "description": "Vancouver, (SE Oakridge / East Marpole / South Sunset)"
+    },
+    {
+      "code": "V5Y",
+      "description": "Vancouver, (West Mount Pleasant / West Riley Park-Little Mountain)"
+    },
+    {
+      "code": "V5Z",
+      "description": "Vancouver, (East Fairview / South Cambie)"
+    },
+    {
+      "code": "V6A",
+      "description": "Vancouver, (Strathcona / Chinatown / Downtown Eastside)"
+    },
+    {
+      "code": "V6B",
+      "description": "Vancouver, (NE Downtown / Gastown / Harbour Centre / International Village / Victory Square / Yaletown)"
+    },
+    {
+      "code": "V6C",
+      "description": "Vancouver, (Waterfront / Coal Harbour / Canada Place)"
+    },
+    {
+      "code": "V6E",
+      "description": "Vancouver, (SE West End / Davie Village)"
+    },
+    {
+      "code": "V6G",
+      "description": "Vancouver, (NW West End / Stanley Park)"
+    },
+    {
+      "code": "V6H",
+      "description": "Vancouver, (West Fairview / Granville Island / NE Shaughnessy)"
+    },
+    {
+      "code": "V6J",
+      "description": "Vancouver, (NW Shaughnessy / East Kitsilano / Quilchena)"
+    },
+    {
+      "code": "V6K",
+      "description": "Vancouver, (Central Kitsilano / Greektown)"
+    },
+    {
+      "code": "V6L",
+      "description": "Vancouver, (NW Arbutus Ridge / NE Dunbar-Southlands)"
+    },
+    {
+      "code": "V6M",
+      "description": "Vancouver, (South Shaughnessy / NW Oakridge / NE Kerrisdale / SE Arbutus Ridge)"
+    },
+    {
+      "code": "V6N",
+      "description": "Vancouver, (West Kerrisdale / South Dunbar-Southlands / Musqueam)"
+    },
+    {
+      "code": "V6P",
+      "description": "Vancouver, (SE Kerrisdale / SW Oakridge / West Marpole)"
+    },
+    {
+      "code": "V6R",
+      "description": "Vancouver, (West Kitsilano / West Point Grey / Jericho)"
+    },
+    {
+      "code": "V6T",
+      "description": "Vancouver, (UBC)"
+    },
+    {
+      "code": "V6V",
+      "description": "Richmond, Northeast"
+    },
+    {
+      "code": "V6W",
+      "description": "Richmond, Southeast"
+    },
+    {
+      "code": "V6X",
+      "description": "Richmond, North"
+    },
+    {
+      "code": "V6Y",
+      "description": "Richmond, Central"
+    },
+    {
+      "code": "V6Z",
+      "description": "Vancouver, (SW Downtown)"
+    },
+    {
+      "code": "V7A",
+      "description": "Richmond, South"
+    },
+    {
+      "code": "V7B",
+      "description": "Richmond, (Sea Island / YVR)"
+    },
+    {
+      "code": "V7C",
+      "description": "Richmond, Northwest"
+    },
+    {
+      "code": "V7E",
+      "description": "Richmond, Southwest"
+    },
+    {
+      "code": "V7G",
+      "description": "North Vancouver (district municipality), Outer East"
+    },
+    {
+      "code": "V7H",
+      "description": "North Vancouver (district municipality), Inner East"
+    },
+    {
+      "code": "V7J",
+      "description": "North Vancouver (district municipality), East Central"
+    },
+    {
+      "code": "V7K",
+      "description": "North Vancouver (district municipality), North Central"
+    },
+    {
+      "code": "V7L",
+      "description": "North Vancouver (city), South Central"
+    },
+    {
+      "code": "V7M",
+      "description": "North Vancouver (city), Southwest Central"
+    },
+    {
+      "code": "V7N",
+      "description": "North Vancouver (district municipality), Northwest Central"
+    },
+    {
+      "code": "V7P",
+      "description": "North Vancouver (city), Southwest"
+    },
+    {
+      "code": "V7R",
+      "description": "North Vancouver (district municipality), Northwest"
+    },
+    {
+      "code": "V7S",
+      "description": "West Vancouver, North"
+    },
+    {
+      "code": "V7T",
+      "description": "West Vancouver, Southeast"
+    },
+    {
+      "code": "V7V",
+      "description": "West Vancouver, South"
+    },
+    {
+      "code": "V7W",
+      "description": "West Vancouver, West"
+    },
+    {
+      "code": "V7X",
+      "description": "Vancouver, (Bentall Centre)"
+    },
+    {
+      "code": "V7Y",
+      "description": "Vancouver, (Pacific Centre)"
+    },
+    {
+      "code": "V8A",
+      "description": "Powell River"
+    },
+    {
+      "code": "V8B",
+      "description": "Squamish"
+    },
+    {
+      "code": "V8C",
+      "description": "Kitimat"
+    },
+    {
+      "code": "V8G",
+      "description": "Terrace"
+    },
+    {
+      "code": "V8J",
+      "description": "Prince Rupert"
+    },
+    {
+      "code": "V8K",
+      "description": "Saltspring Island"
+    },
+    {
+      "code": "V8L",
+      "description": "Greater Victoria, (North Saanich / Sidney / YYJ)"
+    },
+    {
+      "code": "V8M",
+      "description": "Greater Victoria, (Central Saanich)"
+    },
+    {
+      "code": "V8N",
+      "description": "Greater Victoria, (East Saanich)"
+    },
+    {
+      "code": "V8P",
+      "description": "Greater Victoria, (SE Saanich / UVic)"
+    },
+    {
+      "code": "V8R",
+      "description": "Greater Victoria, (North Oak Bay / North Fernwood / North Jubilee / South Jubilee / East Oaklands)"
+    },
+    {
+      "code": "V8S",
+      "description": "Greater Victoria, (South Oak Bay / East Fairfield / Gonzales / South Fernwood / Rockland)"
+    },
+    {
+      "code": "V8T",
+      "description": "Greater Victoria, (SE Burnside / Hillside-Quadra / North Park / West Oaklands / Rock Bay)"
+    },
+    {
+      "code": "V8V",
+      "description": "Greater Victoria, (Cook Street Village / West Fairfield / Harris Green / Humboldt Valley / James Bay)"
+    },
+    {
+      "code": "V8W",
+      "description": "Greater Victoria, (Downtown / Chinatown) | British Columbia Provincial Government"
+    },
+    {
+      "code": "V8X",
+      "description": "Greater Victoria, (South Saanich)"
+    },
+    {
+      "code": "V8Y",
+      "description": "Greater Victoria, (NE Saanich)"
+    },
+    {
+      "code": "V8Z",
+      "description": "Greater Victoria, (Middle Saanich)"
+    },
+    {
+      "code": "V9A",
+      "description": "Greater Victoria, (Vic West / Esquimalt) | Canadian Forces (MARPAC)"
+    },
+    {
+      "code": "V9B",
+      "description": "Greater Victoria, (West Highlands / North Langford / View Royal)"
+    },
+    {
+      "code": "V9C",
+      "description": "Greater Victoria, (Colwood / South Langford / Metchosin)"
+    },
+    {
+      "code": "V9E",
+      "description": "Greater Victoria, (East Highlands / NW Saanich)"
+    },
+    {
+      "code": "V9G",
+      "description": "Ladysmith"
+    },
+    {
+      "code": "V9H",
+      "description": "Campbell River, Outskirts"
+    },
+    {
+      "code": "V9J",
+      "description": "Courtenay, Northern Outskirts"
+    },
+    {
+      "code": "V9K",
+      "description": "Qualicum Beach"
+    },
+    {
+      "code": "V9L",
+      "description": "Duncan"
+    },
+    {
+      "code": "V9M",
+      "description": "Comox"
+    },
+    {
+      "code": "V9N",
+      "description": "Courtenay, Central"
+    },
+    {
+      "code": "V9P",
+      "description": "Parksville"
+    },
+    {
+      "code": "V9R",
+      "description": "Nanaimo, South"
+    },
+    {
+      "code": "V9S",
+      "description": "Nanaimo, Central"
+    },
+    {
+      "code": "V9T",
+      "description": "Nanaimo, (North / Wellington / Northfield / Departure Bay)"
+    },
+    {
+      "code": "V9V",
+      "description": "Nanaimo, Northwest"
+    },
+    {
+      "code": "V9W",
+      "description": "Campbell River, Central"
+    },
+    {
+      "code": "V9X",
+      "description": "Cedar"
+    },
+    {
+      "code": "V9Y",
+      "description": "Port Alberni"
+    },
+    {
+      "code": "V9Z",
+      "description": "Sooke"
+    }
+  ]
+}

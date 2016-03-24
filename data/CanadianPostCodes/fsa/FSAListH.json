@@ -1,0 +1,497 @@
+{
+  "name": "FSAListH",
+  "fsaList": [
+    {
+      "code": "H0H",
+      "description": "Reserved (0H0: Santa Claus)"
+    },
+    {
+      "code": "H0M",
+      "description": "Akwesasne Region"
+    },
+    {
+      "code": "H1A",
+      "description": "Pointe-aux-Trembles"
+    },
+    {
+      "code": "H1B",
+      "description": "Montreal East"
+    },
+    {
+      "code": "H1C",
+      "description": "Rivière-des-Prairies, Northeast"
+    },
+    {
+      "code": "H1E",
+      "description": "Rivière-des-Prairies, Southwest"
+    },
+    {
+      "code": "H1G",
+      "description": "Montréal-Nord, North"
+    },
+    {
+      "code": "H1H",
+      "description": "Montréal-Nord, South"
+    },
+    {
+      "code": "H1J",
+      "description": "Anjou, West"
+    },
+    {
+      "code": "H1K",
+      "description": "Anjou, East"
+    },
+    {
+      "code": "H1L",
+      "description": "Mercier, North"
+    },
+    {
+      "code": "H1M",
+      "description": "Mercier, West"
+    },
+    {
+      "code": "H1N",
+      "description": "Mercier, Southeast"
+    },
+    {
+      "code": "H1P",
+      "description": "Saint-Léonard, North"
+    },
+    {
+      "code": "H1R",
+      "description": "Saint-Léonard, West"
+    },
+    {
+      "code": "H1S",
+      "description": "Saint-Léonard, Southeast"
+    },
+    {
+      "code": "H1T",
+      "description": "Rosemont, North"
+    },
+    {
+      "code": "H1V",
+      "description": "Maisonneuve"
+    },
+    {
+      "code": "H1W",
+      "description": "Hochelaga"
+    },
+    {
+      "code": "H1X",
+      "description": "Rosemont, Central"
+    },
+    {
+      "code": "H1Y",
+      "description": "Rosemont, South"
+    },
+    {
+      "code": "H1Z",
+      "description": "Saint-Michel, West"
+    },
+    {
+      "code": "H2A",
+      "description": "Saint-Michel, East"
+    },
+    {
+      "code": "H2B",
+      "description": "Ahuntsic, North"
+    },
+    {
+      "code": "H2C",
+      "description": "Ahuntsic, Central"
+    },
+    {
+      "code": "H2E",
+      "description": "Villeray, Northeast"
+    },
+    {
+      "code": "H2G",
+      "description": "Petite-Patrie, Northeast"
+    },
+    {
+      "code": "H2H",
+      "description": "Plateau Mont-Royal, North"
+    },
+    {
+      "code": "H2J",
+      "description": "Plateau Mont-Royal, North Central"
+    },
+    {
+      "code": "H2K",
+      "description": "Centre-Sud, North"
+    },
+    {
+      "code": "H2L",
+      "description": "Centre-Sud, South"
+    },
+    {
+      "code": "H2M",
+      "description": "Ahuntsic, East"
+    },
+    {
+      "code": "H2N",
+      "description": "Ahuntsic, Southeast"
+    },
+    {
+      "code": "H2P",
+      "description": "Villeray, West"
+    },
+    {
+      "code": "H2R",
+      "description": "Villeray, Southeast"
+    },
+    {
+      "code": "H2S",
+      "description": "Petite-Patrie, Southwest"
+    },
+    {
+      "code": "H2T",
+      "description": "Plateau Mont-Royal, West"
+    },
+    {
+      "code": "H2V",
+      "description": "Outremont"
+    },
+    {
+      "code": "H2W",
+      "description": "Plateau Mont-Royal, South Central"
+    },
+    {
+      "code": "H2X",
+      "description": "Plateau Mont-Royal, Southeast"
+    },
+    {
+      "code": "H2Y",
+      "description": "Old Montreal"
+    },
+    {
+      "code": "H2Z",
+      "description": "Downtown Montreal, Northeast"
+    },
+    {
+      "code": "H3A",
+      "description": "Downtown Montreal, North (McGill University)"
+    },
+    {
+      "code": "H3B",
+      "description": "Downtown Montreal, East"
+    },
+    {
+      "code": "H3C",
+      "description": "Griffintown (Includes Île Notre-Dame \u0026 Île Sainte-Hélène) (Université de Montréal)"
+    },
+    {
+      "code": "H3E",
+      "description": "L\u0027Île-Des-Soeurs"
+    },
+    {
+      "code": "H3G",
+      "description": "Downtown Montreal, Southeast (Concordia University)"
+    },
+    {
+      "code": "H3H",
+      "description": "Downtown Montreal, Southwest"
+    },
+    {
+      "code": "H3J",
+      "description": "Petite-Bourgogne"
+    },
+    {
+      "code": "H3K",
+      "description": "Pointe-Saint-Charles"
+    },
+    {
+      "code": "H3L",
+      "description": "Ahuntsic, Southwest"
+    },
+    {
+      "code": "H3M",
+      "description": "Cartierville, Northeast"
+    },
+    {
+      "code": "H3N",
+      "description": "Parc-Extension"
+    },
+    {
+      "code": "H3P",
+      "description": "Mount Royal, North"
+    },
+    {
+      "code": "H3R",
+      "description": "Mount Royal, Central"
+    },
+    {
+      "code": "H3S",
+      "description": "Côte-des-Neiges, North"
+    },
+    {
+      "code": "H3T",
+      "description": "Côte-des-Neiges, Northeast"
+    },
+    {
+      "code": "H3V",
+      "description": "Côte-des-Neiges, East"
+    },
+    {
+      "code": "H3W",
+      "description": "Côte-des-Neiges, Southwest"
+    },
+    {
+      "code": "H3X",
+      "description": "Hampstead / Côte Saint-Luc"
+    },
+    {
+      "code": "H3Y",
+      "description": "Westmount, North"
+    },
+    {
+      "code": "H3Z",
+      "description": "Westmount, South"
+    },
+    {
+      "code": "H4A",
+      "description": "Notre-Dame-de-Grâce, Northeast"
+    },
+    {
+      "code": "H4B",
+      "description": "Notre-Dame-de-Grâce, Southwest"
+    },
+    {
+      "code": "H4C",
+      "description": "Saint-Henri"
+    },
+    {
+      "code": "H4E",
+      "description": "Ville Émard"
+    },
+    {
+      "code": "H4G",
+      "description": "Verdun, North"
+    },
+    {
+      "code": "H4H",
+      "description": "Verdun, South"
+    },
+    {
+      "code": "H4J",
+      "description": "Cartierville, Central"
+    },
+    {
+      "code": "H4K",
+      "description": "Cartierville, Southwest"
+    },
+    {
+      "code": "H4L",
+      "description": "Saint-Laurent, Inner Northeast"
+    },
+    {
+      "code": "H4M",
+      "description": "Saint-Laurent, East"
+    },
+    {
+      "code": "H4N",
+      "description": "Saint-Laurent, Outer Northeast"
+    },
+    {
+      "code": "H4P",
+      "description": "Mount Royal, South"
+    },
+    {
+      "code": "H4R",
+      "description": "Saint-Laurent, Central"
+    },
+    {
+      "code": "H4S",
+      "description": "Saint-Laurent, Southwest"
+    },
+    {
+      "code": "H4T",
+      "description": "Saint-Laurent, Southeast"
+    },
+    {
+      "code": "H4V",
+      "description": "Côte Saint-Luc, East"
+    },
+    {
+      "code": "H4W",
+      "description": "Côte Saint-Luc, West"
+    },
+    {
+      "code": "H4X",
+      "description": "Montreal West"
+    },
+    {
+      "code": "H4Y",
+      "description": "Dorval, Central (YUL)"
+    },
+    {
+      "code": "H4Z",
+      "description": "Tour de la Bourse"
+    },
+    {
+      "code": "H5A",
+      "description": "Place Bonaventure"
+    },
+    {
+      "code": "H5B",
+      "description": "Place Desjardins"
+    },
+    {
+      "code": "H7A",
+      "description": "Duvernay-Est"
+    },
+    {
+      "code": "H7B",
+      "description": "Saint-François"
+    },
+    {
+      "code": "H7C",
+      "description": "Saint-Vincent-de-Paul"
+    },
+    {
+      "code": "H7E",
+      "description": "Duvernay"
+    },
+    {
+      "code": "H7G",
+      "description": "Pont-Viau"
+    },
+    {
+      "code": "H7H",
+      "description": "Auteuil, West"
+    },
+    {
+      "code": "H7J",
+      "description": "Auteuil, Northeast"
+    },
+    {
+      "code": "H7K",
+      "description": "Auteuil, South"
+    },
+    {
+      "code": "H7L",
+      "description": "Sainte-Rose"
+    },
+    {
+      "code": "H7M",
+      "description": "Vimont"
+    },
+    {
+      "code": "H7N",
+      "description": "Laval-des-Rapides"
+    },
+    {
+      "code": "H7P",
+      "description": "Fabreville"
+    },
+    {
+      "code": "H7R",
+      "description": "Laval-sur-le-Lac"
+    },
+    {
+      "code": "H7S",
+      "description": "Chomedey, Northeast"
+    },
+    {
+      "code": "H7T",
+      "description": "Chomedey, Northwest"
+    },
+    {
+      "code": "H7V",
+      "description": "Chomedey, East"
+    },
+    {
+      "code": "H7W",
+      "description": "Chomedey, South"
+    },
+    {
+      "code": "H7X",
+      "description": "Sainte-Dorothée"
+    },
+    {
+      "code": "H7Y",
+      "description": "Îles-Laval"
+    },
+    {
+      "code": "H8N",
+      "description": "LaSalle, Northwest"
+    },
+    {
+      "code": "H8P",
+      "description": "LaSalle, Southeast"
+    },
+    {
+      "code": "H8R",
+      "description": "Ville Saint-Pierre"
+    },
+    {
+      "code": "H8S",
+      "description": "Lachine, East"
+    },
+    {
+      "code": "H8T",
+      "description": "Lachine, West"
+    },
+    {
+      "code": "H8Y",
+      "description": "Roxboro"
+    },
+    {
+      "code": "H8Z",
+      "description": "Pierrefonds"
+    },
+    {
+      "code": "H9A",
+      "description": "Dollard-des-Ormeaux, Northwest"
+    },
+    {
+      "code": "H9B",
+      "description": "TDollard-des-Ormeaux, East"
+    },
+    {
+      "code": "H9C",
+      "description": "L\u0027Île-Bizard, Northeast"
+    },
+    {
+      "code": "H9E",
+      "description": "L\u0027Île-Bizard, Southwest"
+    },
+    {
+      "code": "H9G",
+      "description": "Dollard-des-Ormeaux, Southwest"
+    },
+    {
+      "code": "H9H",
+      "description": "Sainte-Geneviève / Pierrefonds"
+    },
+    {
+      "code": "H9J",
+      "description": "Kirkland"
+    },
+    {
+      "code": "H9K",
+      "description": "Senneville"
+    },
+    {
+      "code": "H9P",
+      "description": "Dorval, Outskirts"
+    },
+    {
+      "code": "H9R",
+      "description": "Pointe-Claire"
+    },
+    {
+      "code": "H9S",
+      "description": "Dorval / L\u0027Île-Dorval"
+    },
+    {
+      "code": "H9W",
+      "description": "Beaconsfield"
+    },
+    {
+      "code": "H9X",
+      "description": "Sainte-Anne-De-Bellevue"
+    }
+  ]
+}

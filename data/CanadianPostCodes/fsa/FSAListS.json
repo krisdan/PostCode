@@ -1,0 +1,201 @@
+{
+  "name": "FSAListS",
+  "fsaList": [
+    {
+      "code": "S0A",
+      "description": "Yorkton Region"
+    },
+    {
+      "code": "S0C",
+      "description": "Southeastern Saskatchewan"
+    },
+    {
+      "code": "S0E",
+      "description": "Eastern Saskatchewan"
+    },
+    {
+      "code": "S0G",
+      "description": "South Central Saskatchewan"
+    },
+    {
+      "code": "S0H",
+      "description": "Southern Saskatchewan"
+    },
+    {
+      "code": "S0J",
+      "description": "Northern Saskatchewan"
+    },
+    {
+      "code": "S0K",
+      "description": "Central Saskatchewan"
+    },
+    {
+      "code": "S0L",
+      "description": "Western Saskatchewan"
+    },
+    {
+      "code": "S0M",
+      "description": "Northwestern Saskatchewan"
+    },
+    {
+      "code": "S0N",
+      "description": "Southwestern Saskatchewan"
+    },
+    {
+      "code": "S0P",
+      "description": "Northeastern Saskatchewan"
+    },
+    {
+      "code": "S2V",
+      "description": "Buena Vista"
+    },
+    {
+      "code": "S3N",
+      "description": "Yorkton"
+    },
+    {
+      "code": "S4A",
+      "description": "Estevan"
+    },
+    {
+      "code": "S4H",
+      "description": "Weyburn"
+    },
+    {
+      "code": "S4L",
+      "description": "Regina and White City, East"
+    },
+    {
+      "code": "S4M",
+      "description": "Regina"
+    },
+    {
+      "code": "S4N",
+      "description": "Regina, Northeast and East Central"
+    },
+    {
+      "code": "S4P",
+      "description": "Regina, Central"
+    },
+    {
+      "code": "S4R",
+      "description": "Regina, North Central"
+    },
+    {
+      "code": "S4S",
+      "description": "Regina, South Saskatchewan Provincial Government"
+    },
+    {
+      "code": "S4T",
+      "description": "Regina, West"
+    },
+    {
+      "code": "S4V",
+      "description": "Regina, Southeast"
+    },
+    {
+      "code": "S4W",
+      "description": "Regina, Southwest (YQR)"
+    },
+    {
+      "code": "S4X",
+      "description": "Regina, Northwest"
+    },
+    {
+      "code": "S4Y",
+      "description": "Regina, Outer Northwest"
+    },
+    {
+      "code": "S4Z",
+      "description": "Regina, Northeast"
+    },
+    {
+      "code": "S6H",
+      "description": "Moose Jaw, Southeast"
+    },
+    {
+      "code": "S6J",
+      "description": "Central Saskatchewan"
+    },
+    {
+      "code": "S6K",
+      "description": "Moose Jaw, West"
+    },
+    {
+      "code": "S6V",
+      "description": "Prince Albert, Central"
+    },
+    {
+      "code": "S6W",
+      "description": "Prince Albert, Southwest"
+    },
+    {
+      "code": "S6X",
+      "description": "Prince Albert, East"
+    },
+    {
+      "code": "S7H",
+      "description": "Saskatoon, East Central"
+    },
+    {
+      "code": "S7J",
+      "description": "Saskatoon, South Central"
+    },
+    {
+      "code": "S7K",
+      "description": "Saskatoon, North Central"
+    },
+    {
+      "code": "S7L",
+      "description": "Saskatoon, West (YXE)"
+    },
+    {
+      "code": "S7M",
+      "description": "Saskatoon, Southwest"
+    },
+    {
+      "code": "S7N",
+      "description": "Saskatoon, Northeast Central (U of S)"
+    },
+    {
+      "code": "S7P",
+      "description": "Saskatoon, North"
+    },
+    {
+      "code": "S7R",
+      "description": "Saskatoon, Northwest"
+    },
+    {
+      "code": "S7S",
+      "description": "Saskatoon, Northeast"
+    },
+    {
+      "code": "S7T",
+      "description": "Saskatoon, South"
+    },
+    {
+      "code": "S7V",
+      "description": "Saskatoon, Southeast"
+    },
+    {
+      "code": "S7W",
+      "description": "Saskatoon, Various city centre locations"
+    },
+    {
+      "code": "S9A",
+      "description": "North Battleford"
+    },
+    {
+      "code": "S9H",
+      "description": "Swift Current"
+    },
+    {
+      "code": "S9V",
+      "description": "Lloydminster"
+    },
+    {
+      "code": "S9X",
+      "description": "Meadow Lake"
+    }
+  ]
+}

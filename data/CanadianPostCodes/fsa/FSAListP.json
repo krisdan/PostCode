@@ -1,0 +1,237 @@
+{
+  "name": "FSAListP",
+  "fsaList": [
+    {
+      "code": "P0A",
+      "description": "Nipissing Central"
+    },
+    {
+      "code": "P0B",
+      "description": "Nipissing South"
+    },
+    {
+      "code": "P0C",
+      "description": "Parry Sound Mid-Shore"
+    },
+    {
+      "code": "P0E",
+      "description": "Parry Sound South Shore"
+    },
+    {
+      "code": "P0G",
+      "description": "Parry Sound North Shore"
+    },
+    {
+      "code": "P0H",
+      "description": "Nipissing North"
+    },
+    {
+      "code": "P0J",
+      "description": "Timiskaming South"
+    },
+    {
+      "code": "P0K",
+      "description": "Timiskaming North"
+    },
+    {
+      "code": "P0L",
+      "description": "Remote Northeast and Kapuskasing Region"
+    },
+    {
+      "code": "P0M",
+      "description": "Algoma, Sudbury District and Rural Greater Sudbury"
+    },
+    {
+      "code": "P0N",
+      "description": "Timmins Region"
+    },
+    {
+      "code": "P0P",
+      "description": "Manitoulin"
+    },
+    {
+      "code": "P0R",
+      "description": "Algoma Southwest"
+    },
+    {
+      "code": "P0S",
+      "description": "Lake Superior East Shore"
+    },
+    {
+      "code": "P0T",
+      "description": "Lake Superior North Shore"
+    },
+    {
+      "code": "P0V",
+      "description": "Northwestern Ontario"
+    },
+    {
+      "code": "P0W",
+      "description": "Rainy River Region"
+    },
+    {
+      "code": "P0X",
+      "description": "Kenora Region"
+    },
+    {
+      "code": "P0Y",
+      "description": "Whiteshell Park Region"
+    },
+    {
+      "code": "P1A",
+      "description": "North Bay, South"
+    },
+    {
+      "code": "P1B",
+      "description": "North Bay, Central"
+    },
+    {
+      "code": "P1C",
+      "description": "North Bay, North"
+    },
+    {
+      "code": "P1H",
+      "description": "Huntsville"
+    },
+    {
+      "code": "P1L",
+      "description": "Bracebridge"
+    },
+    {
+      "code": "P1P",
+      "description": "Gravenhurst"
+    },
+    {
+      "code": "P2A",
+      "description": "Parry Sound"
+    },
+    {
+      "code": "P2B",
+      "description": "Sturgeon Falls"
+    },
+    {
+      "code": "P2N",
+      "description": "Kirkland Lake"
+    },
+    {
+      "code": "P3A",
+      "description": "Greater Sudbury, (New Sudbury)"
+    },
+    {
+      "code": "P3B",
+      "description": "Greater Sudbury, (Downtown / Minnow Lake)"
+    },
+    {
+      "code": "P3C",
+      "description": "Greater Sudbury, (Gatchell / West End / Little Britain)"
+    },
+    {
+      "code": "P3E",
+      "description": "Greater Sudbury, (Robinson / Lockerby)"
+    },
+    {
+      "code": "P3G",
+      "description": "Greater Sudbury, (Lo-Ellen / McFarlane Lake)"
+    },
+    {
+      "code": "P3L",
+      "description": "Greater Sudbury, (Garson)"
+    },
+    {
+      "code": "P3N",
+      "description": "Greater Sudbury, (Val Caron)"
+    },
+    {
+      "code": "P3P",
+      "description": "Greater Sudbury, (Hanmer)"
+    },
+    {
+      "code": "P3Y",
+      "description": "Greater Sudbury, (Lively)"
+    },
+    {
+      "code": "P4N",
+      "description": "Timmins, Southeast"
+    },
+    {
+      "code": "P4P",
+      "description": "Timmins, North"
+    },
+    {
+      "code": "P4R",
+      "description": "Timmins, West"
+    },
+    {
+      "code": "P5A",
+      "description": "Elliot Lake"
+    },
+    {
+      "code": "P5E",
+      "description": "Espanola"
+    },
+    {
+      "code": "P5N",
+      "description": "Kapuskasing"
+    },
+    {
+      "code": "P6A",
+      "description": "Sault Ste. Marie, East"
+    },
+    {
+      "code": "P6B",
+      "description": "Sault Ste. Marie, Central"
+    },
+    {
+      "code": "P6C",
+      "description": "Sault Ste. Marie, North"
+    },
+    {
+      "code": "P7A",
+      "description": "Thunder Bay, Northeast"
+    },
+    {
+      "code": "P7B",
+      "description": "Thunder Bay, North Central"
+    },
+    {
+      "code": "P7C",
+      "description": "Thunder Bay, Central"
+    },
+    {
+      "code": "P7E",
+      "description": "Thunder Bay, South Central"
+    },
+    {
+      "code": "P7G",
+      "description": "Thunder Bay, North"
+    },
+    {
+      "code": "P7J",
+      "description": "Thunder Bay, South"
+    },
+    {
+      "code": "P7K",
+      "description": "Thunder Bay, West"
+    },
+    {
+      "code": "P7L",
+      "description": "Neebing"
+    },
+    {
+      "code": "P8N",
+      "description": "Dryden"
+    },
+    {
+      "code": "P8T",
+      "description": "Sioux Lookout"
+    },
+    {
+      "code": "P9A",
+      "description": "Fort Frances"
+    },
+    {
+      "code": "P9N",
+      "description": "Kenora"
+    }
+  ]
+}

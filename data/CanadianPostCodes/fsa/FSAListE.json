@@ -1,0 +1,449 @@
+{
+  "name": "FSAListE",
+  "fsaList": [
+    {
+      "code": "E1A",
+      "description": "Moncton (Dieppe), East"
+    },
+    {
+      "code": "E1B",
+      "description": "Riverview"
+    },
+    {
+      "code": "E1C",
+      "description": "Moncton, Central"
+    },
+    {
+      "code": "E1E",
+      "description": "Moncton, West"
+    },
+    {
+      "code": "E1G",
+      "description": "Moncton, Northwest"
+    },
+    {
+      "code": "E1H",
+      "description": "Moncton, Northern outskirts (Lakeville / Shediac Bridge-Shediac River)"
+    },
+    {
+      "code": "E1J",
+      "description": "Coverdale"
+    },
+    {
+      "code": "E1N",
+      "description": "Miramichi, East (Chatham)"
+    },
+    {
+      "code": "E1V",
+      "description": "Miramichi, West (Newcastle)"
+    },
+    {
+      "code": "E1W",
+      "description": "Caraquet"
+    },
+    {
+      "code": "E1X",
+      "description": "Tracadie-Sheila"
+    },
+    {
+      "code": "E2A",
+      "description": "Bathurst"
+    },
+    {
+      "code": "E2E",
+      "description": "Rothesay"
+    },
+    {
+      "code": "E2G",
+      "description": "Quispamsis"
+    },
+    {
+      "code": "E2H",
+      "description": "Saint John, Northeast (Renforth)"
+    },
+    {
+      "code": "E2J",
+      "description": "Saint John, East"
+    },
+    {
+      "code": "E2K",
+      "description": "Saint John, North"
+    },
+    {
+      "code": "E2L",
+      "description": "Saint John, Central"
+    },
+    {
+      "code": "E2M",
+      "description": "Saint John, West"
+    },
+    {
+      "code": "E2N",
+      "description": "Saint John, Lakewood"
+    },
+    {
+      "code": "E2P",
+      "description": "Saint John, Red Head"
+    },
+    {
+      "code": "E2R",
+      "description": "Saint John, Grandview"
+    },
+    {
+      "code": "E2S",
+      "description": "Saint John, Loch Lomond"
+    },
+    {
+      "code": "E2V",
+      "description": "Oromocto"
+    },
+    {
+      "code": "E3A",
+      "description": "Fredericton, North"
+    },
+    {
+      "code": "E3B",
+      "description": "Fredericton (New Brunswick Provincial Governmen), South"
+    },
+    {
+      "code": "E3C",
+      "description": "Fredericton (New Maryland), Southwest"
+    },
+    {
+      "code": "E3E",
+      "description": "Kingsclear"
+    },
+    {
+      "code": "E3G",
+      "description": "Fredericton"
+    },
+    {
+      "code": "E3L",
+      "description": "St. Stephen"
+    },
+    {
+      "code": "E3N",
+      "description": "Atholville, Campbellton"
+    },
+    {
+      "code": "E3V",
+      "description": "Edmundston"
+    },
+    {
+      "code": "E3Y",
+      "description": "Grand Falls, Northeast"
+    },
+    {
+      "code": "E3Z",
+      "description": "Grand Falls, Central"
+    },
+    {
+      "code": "E4A",
+      "description": "Chipman"
+    },
+    {
+      "code": "E4B",
+      "description": "Minto"
+    },
+    {
+      "code": "E4C",
+      "description": "Youngs Cove"
+    },
+    {
+      "code": "E4E",
+      "description": "Sussex"
+    },
+    {
+      "code": "E4G",
+      "description": "Smiths Creek"
+    },
+    {
+      "code": "E4H",
+      "description": "Hillsborough"
+    },
+    {
+      "code": "E4J",
+      "description": "Salisbury"
+    },
+    {
+      "code": "E4K",
+      "description": "Dorchester"
+    },
+    {
+      "code": "E4L",
+      "description": "Sackville"
+    },
+    {
+      "code": "E4M",
+      "description": "Bayfield"
+    },
+    {
+      "code": "E4N",
+      "description": "Cap-Pelé"
+    },
+    {
+      "code": "E4P",
+      "description": "Shediac"
+    },
+    {
+      "code": "E4R",
+      "description": "Cocagne"
+    },
+    {
+      "code": "E4S",
+      "description": "Bouctouche"
+    },
+    {
+      "code": "E4T",
+      "description": "Bass River"
+    },
+    {
+      "code": "E4V",
+      "description": "Saint-Antoine"
+    },
+    {
+      "code": "E4W",
+      "description": "Richibucto"
+    },
+    {
+      "code": "E4X",
+      "description": "St-Louis-de-Kent"
+    },
+    {
+      "code": "E4Y",
+      "description": "Rogersville"
+    },
+    {
+      "code": "E4Z",
+      "description": "Petitcodiac"
+    },
+    {
+      "code": "E5A",
+      "description": "Moores Mills"
+    },
+    {
+      "code": "E5B",
+      "description": "St. Andrews"
+    },
+    {
+      "code": "E5C",
+      "description": "St. George"
+    },
+    {
+      "code": "E5E",
+      "description": "Campobello Island"
+    },
+    {
+      "code": "E5G",
+      "description": "Grand Manan Island"
+    },
+    {
+      "code": "E5H",
+      "description": "Pennfield"
+    },
+    {
+      "code": "E5J",
+      "description": "Lepreau"
+    },
+    {
+      "code": "E5K",
+      "description": "Grand BayWestfield"
+    },
+    {
+      "code": "E5L",
+      "description": "Fredericton Junction"
+    },
+    {
+      "code": "E5M",
+      "description": "Gagetown"
+    },
+    {
+      "code": "E5N",
+      "description": "Hampton"
+    },
+    {
+      "code": "E5P",
+      "description": "Apohaqui"
+    },
+    {
+      "code": "E5R",
+      "description": "St. Martins"
+    },
+    {
+      "code": "E5S",
+      "description": "Kingston"
+    },
+    {
+      "code": "E5T",
+      "description": "Norton"
+    },
+    {
+      "code": "E5V",
+      "description": "Deer Island"
+    },
+    {
+      "code": "E6A",
+      "description": "Boiestown"
+    },
+    {
+      "code": "E6B",
+      "description": "Stanley"
+    },
+    {
+      "code": "E6C",
+      "description": "Durham Bridge"
+    },
+    {
+      "code": "E6E",
+      "description": "Millville"
+    },
+    {
+      "code": "E6G",
+      "description": "Nackawic"
+    },
+    {
+      "code": "E6H",
+      "description": "Canterbury"
+    },
+    {
+      "code": "E6J",
+      "description": "McAdam"
+    },
+    {
+      "code": "E6K",
+      "description": "Harvey"
+    },
+    {
+      "code": "E6L",
+      "description": "Burtts Corner"
+    },
+    {
+      "code": "E7A",
+      "description": "Baker Brook"
+    },
+    {
+      "code": "E7B",
+      "description": "Saint-Jacques"
+    },
+    {
+      "code": "E7C",
+      "description": "Saint-Basile"
+    },
+    {
+      "code": "E7E",
+      "description": "Saint-Leonard"
+    },
+    {
+      "code": "E7G",
+      "description": "Plaster Rock"
+    },
+    {
+      "code": "E7H",
+      "description": "Perth-Andover"
+    },
+    {
+      "code": "E7J",
+      "description": "Bath"
+    },
+    {
+      "code": "E7K",
+      "description": "Centreville"
+    },
+    {
+      "code": "E7L",
+      "description": "Florenceville"
+    },
+    {
+      "code": "E7M",
+      "description": "Woodstock"
+    },
+    {
+      "code": "E7N",
+      "description": "Debec"
+    },
+    {
+      "code": "E7P",
+      "description": "Hartland"
+    },
+    {
+      "code": "E8A",
+      "description": "Saint-Quentin"
+    },
+    {
+      "code": "E8B",
+      "description": "Kedgwick"
+    },
+    {
+      "code": "E8C",
+      "description": "Dalhousie"
+    },
+    {
+      "code": "E8E",
+      "description": "Balmoral"
+    },
+    {
+      "code": "E8G",
+      "description": "Belledune"
+    },
+    {
+      "code": "E8J",
+      "description": "Petit-Rocher"
+    },
+    {
+      "code": "E8K",
+      "description": "Beresford"
+    },
+    {
+      "code": "E8L",
+      "description": "Allardville"
+    },
+    {
+      "code": "E8M",
+      "description": "Saint-Isidore"
+    },
+    {
+      "code": "E8N",
+      "description": "Grande-Anse"
+    },
+    {
+      "code": "E8P",
+      "description": "Inkerman"
+    },
+    {
+      "code": "E8R",
+      "description": "Paquetville"
+    },
+    {
+      "code": "E8S",
+      "description": "Shippagan"
+    },
+    {
+      "code": "E8T",
+      "description": "Lamèque"
+    },
+    {
+      "code": "E9A",
+      "description": "Baie-Sainte-Anne"
+    },
+    {
+      "code": "E9B",
+      "description": "Blackville"
+    },
+    {
+      "code": "E9C",
+      "description": "Doaktown"
+    },
+    {
+      "code": "E9E",
+      "description": "Red Bank"
+    },
+    {
+      "code": "E9G",
+      "description": "Neguac"
+    },
+    {
+      "code": "E9H",
+      "description": "Brantville"
+    }
+  ]
+}

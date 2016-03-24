@@ -1,0 +1,341 @@
+{
+  "name": "FSAListK",
+  "fsaList": [
+    {
+      "code": "K0A",
+      "description": "National Capital Region"
+    },
+    {
+      "code": "K0B",
+      "description": "Eastern \u0026 Central Prescott and Russell United Counties"
+    },
+    {
+      "code": "K0C",
+      "description": "Stormont, Dundas and Glengarry United Counties"
+    },
+    {
+      "code": "K0E",
+      "description": "South Leeds and Grenville United Counties"
+    },
+    {
+      "code": "K0G",
+      "description": "Rideau Lakes area"
+    },
+    {
+      "code": "K0H",
+      "description": "Frontenac County, Lennox and Addington County, Southwest Leeds and Loyalist Shores"
+    },
+    {
+      "code": "K0J",
+      "description": "Renfrew County and Lanark Highlands Township"
+    },
+    {
+      "code": "K0K",
+      "description": "Quinte Shores, East Northumberland County \u0026 Prince Edward County"
+    },
+    {
+      "code": "K0L",
+      "description": "Peterborough County and North Hastings County"
+    },
+    {
+      "code": "K0M",
+      "description": "Kawartha Lakes and Haliburton County"
+    },
+    {
+      "code": "K1A",
+      "description": "Government of Canada, Ottawa and Gatineau offices (partly in QC)"
+    },
+    {
+      "code": "K1B",
+      "description": "Ottawa, (Blackburn Hamlet / Pine View / Sheffield Glen)"
+    },
+    {
+      "code": "K1C",
+      "description": "Ottawa,(Orleans)"
+    },
+    {
+      "code": "K1E",
+      "description": "Ottawa, (Queenswood)"
+    },
+    {
+      "code": "K1G",
+      "description": "Ottawa, (Riverview / Hawthorne / Canterbury / Hunt Club Park)"
+    },
+    {
+      "code": "K1H",
+      "description": "Ottawa, (Alta Vista / Billings Bridge)"
+    },
+    {
+      "code": "K1J",
+      "description": "Ottawa, (Beacon Hill / Cyrville / Carson Grove)"
+    },
+    {
+      "code": "K1K",
+      "description": "Ottawa, (Overbrook, Forbes, Manor Park, Viscount Alexander Park, Finter Quarries)"
+    },
+    {
+      "code": "K1L",
+      "description": "Ottawa, (Vanier, McKay Lake area)"
+    },
+    {
+      "code": "K1M",
+      "description": "Ottawa, (Rockcliffe Park / New Edinburgh)"
+    },
+    {
+      "code": "K1N",
+      "description": "Ottawa, (Lower Town / Byward Market / Sandy Hill / University of Ottawa)"
+    },
+    {
+      "code": "K1P",
+      "description": "Ottawa, (Parliament Hill)"
+    },
+    {
+      "code": "K1R",
+      "description": "Ottawa, (Dalhousie Ward)"
+    },
+    {
+      "code": "K1S",
+      "description": "Ottawa, (The Glebe / Old Ottawa South / Old Ottawa East / Carleton University / Dow\u0027s Lake area)"
+    },
+    {
+      "code": "K1T",
+      "description": "Ottawa, (Blossom Park / Greenboro / Leitrim) / Findlay Creek"
+    },
+    {
+      "code": "K1V",
+      "description": "Ottawa, (Heron Gate / Heron Park / Riverside Park / Hunt Club / Riverside South / YOW)"
+    },
+    {
+      "code": "K1W",
+      "description": "Ottawa, (Chapel Hill South / Blackburn)"
+    },
+    {
+      "code": "K1X",
+      "description": "Ottawa, South Gloucester"
+    },
+    {
+      "code": "K1Y",
+      "description": "Ottawa, Civic Hospital / Island Park / Hintonburg / Mechanicsville / Champlain Park"
+    },
+    {
+      "code": "K1Z",
+      "description": "Ottawa, (Westboro / Carlington)"
+    },
+    {
+      "code": "K2A",
+      "description": "Ottawa, (Highland Park / McKellar Park /Westboro /Glabar Park /Carlingwood)"
+    },
+    {
+      "code": "K2B",
+      "description": "Ottawa, (Britannia /Whitehaven / Bayshore / Pinecrest)"
+    },
+    {
+      "code": "K2C",
+      "description": "Ottawa, (Queensway / Copeland Park / Central Park / Bel Air /Carleton Heights)"
+    },
+    {
+      "code": "K2E",
+      "description": "Ottawa, ( Eastern Nepean: Fisher Heights/ Parkwood Hills / Borden Farm /Pine Glen )"
+    },
+    {
+      "code": "K2G",
+      "description": "Ottawa, Centrepointe, Meadowlands, City View, Craig Henry, Tangelwood, Grenfell Glen, Davidson Heights)"
+    },
+    {
+      "code": "K2H",
+      "description": "Ottawa, (Bells Corners / Arlington Woods/Redwood / Qualicum / Crystal Beach)"
+    },
+    {
+      "code": "K2J",
+      "description": "Ottawa, (Barrhaven)"
+    },
+    {
+      "code": "K2K",
+      "description": "Ottawa, (Beaverbrook / South March)"
+    },
+    {
+      "code": "K2L",
+      "description": "Ottawa, (Katimavik-Hazeldean / Glen Cairn)"
+    },
+    {
+      "code": "K2M",
+      "description": "Ottawa, (Bridlewood)"
+    },
+    {
+      "code": "K2P",
+      "description": "Ottawa, (Centretown)"
+    },
+    {
+      "code": "K2R",
+      "description": "Ottawa, (Fallowfield Village / Cedarhill Estates / Orchard Estates)"
+    },
+    {
+      "code": "K2S",
+      "description": "Ottawa, (Stittsville)"
+    },
+    {
+      "code": "K2T",
+      "description": "Ottawa, (Marchwood)"
+    },
+    {
+      "code": "K2V",
+      "description": "Ottawa, (Terry Fox / Palladium)"
+    },
+    {
+      "code": "K2W",
+      "description": "Ottawa, (North March)"
+    },
+    {
+      "code": "K4A",
+      "description": "Ottawa, (Fallingbrook)"
+    },
+    {
+      "code": "K4B",
+      "description": "Ottawa, (Cumberland Ward)"
+    },
+    {
+      "code": "K4C",
+      "description": "Ottawa,(Cumberland)"
+    },
+    {
+      "code": "K4K",
+      "description": "Rockland"
+    },
+    {
+      "code": "K4M",
+      "description": "Ottawa, (Manotick)"
+    },
+    {
+      "code": "K4P",
+      "description": "Ottawa, (Greely)"
+    },
+    {
+      "code": "K4R",
+      "description": "Russell"
+    },
+    {
+      "code": "K6A",
+      "description": "Hawkesbury"
+    },
+    {
+      "code": "K6H",
+      "description": "Cornwall, East"
+    },
+    {
+      "code": "K6J",
+      "description": "Cornwall, West"
+    },
+    {
+      "code": "K6K",
+      "description": "Cornwall, North"
+    },
+    {
+      "code": "K6T",
+      "description": "Elizabethtown-Kitley"
+    },
+    {
+      "code": "K6V",
+      "description": "Brockville"
+    },
+    {
+      "code": "K7A",
+      "description": "Smiths Falls"
+    },
+    {
+      "code": "K7C",
+      "description": "Carleton Place"
+    },
+    {
+      "code": "K7G",
+      "description": "Gananoque"
+    },
+    {
+      "code": "K7H",
+      "description": "Perth"
+    },
+    {
+      "code": "K7K",
+      "description": "Kingston Main, (SW Pittsburgh Township, CFB Kingston, Kingscourt, Rideau Heights)"
+    },
+    {
+      "code": "K7L",
+      "description": "Kingston Main, (Downtown, area bounded by Princess St., Sir John A. MacDonald Blvd and Lake Ontario)"
+    },
+    {
+      "code": "K7M",
+      "description": "Kingston Station \"A\", (Portsmouth, Reddendale / Cataraqui / Collins Bay)"
+    },
+    {
+      "code": "K7N",
+      "description": "Amherstview"
+    },
+    {
+      "code": "K7P",
+      "description": "Kingston Station \"A\", (Westbrook / Cataraqui Woods / Cedarwood)"
+    },
+    {
+      "code": "K7R",
+      "description": "Napanee"
+    },
+    {
+      "code": "K7S",
+      "description": "Arnprior"
+    },
+    {
+      "code": "K7V",
+      "description": "Renfrew"
+    },
+    {
+      "code": "K8A",
+      "description": "Pembroke,Central and northern subdivisions"
+    },
+    {
+      "code": "K8B",
+      "description": "Pembroke, (Pleasant View / Fairview)"
+    },
+    {
+      "code": "K8H",
+      "description": "Petawawa"
+    },
+    {
+      "code": "K8N",
+      "description": "Belleville, East | Canadian Forces (Army / RCAF / CANCOM)"
+    },
+    {
+      "code": "K8P",
+      "description": "Belleville, West"
+    },
+    {
+      "code": "K8R",
+      "description": "Belleville, (SE Sidney Township / Avondale)"
+    },
+    {
+      "code": "K8V",
+      "description": "Trenton"
+    },
+    {
+      "code": "K9A",
+      "description": "Cobourg"
+    },
+    {
+      "code": "K9H",
+      "description": "Peterborough, Central"
+    },
+    {
+      "code": "K9J",
+      "description": "Peterborough, South"
+    },
+    {
+      "code": "K9K",
+      "description": "Peterborough, (Fairbairn Meadows / Jackson Heights)"
+    },
+    {
+      "code": "K9L",
+      "description": "Peterborough, (Terra View Heights / Woodland Acres / Donwood)"
+    },
+    {
+      "code": "K9V",
+      "description": "Lindsay"
+    }
+  ]
+}

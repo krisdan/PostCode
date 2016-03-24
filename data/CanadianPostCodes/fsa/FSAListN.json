@@ -1,0 +1,477 @@
+{
+  "name": "FSAListN",
+  "fsaList": [
+    {
+      "code": "N0A",
+      "description": "West Haldimand County"
+    },
+    {
+      "code": "N0B",
+      "description": "Wellington County \u0026 Rural Waterloo Region"
+    },
+    {
+      "code": "N0C",
+      "description": "Georgian Bay Southwest Shore"
+    },
+    {
+      "code": "N0E",
+      "description": "Brant and Norfolk Counties"
+    },
+    {
+      "code": "N0G",
+      "description": "Southern Bruce and Huron Counties"
+    },
+    {
+      "code": "N0H",
+      "description": "Bruce Peninsula"
+    },
+    {
+      "code": "N0J",
+      "description": "Oxford County"
+    },
+    {
+      "code": "N0K",
+      "description": "Perth County"
+    },
+    {
+      "code": "N0L",
+      "description": "Elgin County"
+    },
+    {
+      "code": "N0M",
+      "description": "Middlesex County"
+    },
+    {
+      "code": "N0N",
+      "description": "PLambton County"
+    },
+    {
+      "code": "N0P",
+      "description": "Kent County"
+    },
+    {
+      "code": "N1A",
+      "description": "Dunnville"
+    },
+    {
+      "code": "N1C",
+      "description": "Guelph, South"
+    },
+    {
+      "code": "N1E",
+      "description": "Guelph, North"
+    },
+    {
+      "code": "N1G",
+      "description": "Guelph, Central"
+    },
+    {
+      "code": "N1H",
+      "description": "Guelph, Northwest"
+    },
+    {
+      "code": "N1K",
+      "description": "Guelph, West"
+    },
+    {
+      "code": "N1L",
+      "description": "Guelph, East"
+    },
+    {
+      "code": "N1M",
+      "description": "Fergus"
+    },
+    {
+      "code": "N1P",
+      "description": "Cambridge, South"
+    },
+    {
+      "code": "N1R",
+      "description": "Cambridge, Central"
+    },
+    {
+      "code": "N1S",
+      "description": "Cambridge, Southwest"
+    },
+    {
+      "code": "N1T",
+      "description": "Cambridge, East"
+    },
+    {
+      "code": "N2A",
+      "description": "Kitchener, East"
+    },
+    {
+      "code": "N2B",
+      "description": "Kitchener, Northeast"
+    },
+    {
+      "code": "N2C",
+      "description": "Kitchener, South Central"
+    },
+    {
+      "code": "N2E",
+      "description": "Kitchener, Southwest"
+    },
+    {
+      "code": "N2G",
+      "description": "Kitchener, Central"
+    },
+    {
+      "code": "N2H",
+      "description": "Kitchener, North Central"
+    },
+    {
+      "code": "N2J",
+      "description": "Waterloo, Southeast"
+    },
+    {
+      "code": "N2K",
+      "description": "Waterloo, East"
+    },
+    {
+      "code": "N2L",
+      "description": "Waterloo, South"
+    },
+    {
+      "code": "N2M",
+      "description": "Kitchener, Northwest"
+    },
+    {
+      "code": "N2N",
+      "description": "Kitchener, West"
+    },
+    {
+      "code": "N2P",
+      "description": "Kitchener, Southeast"
+    },
+    {
+      "code": "N2R",
+      "description": "Kitchener, South"
+    },
+    {
+      "code": "N2T",
+      "description": "Waterloo, Southwest"
+    },
+    {
+      "code": "N2V",
+      "description": "Waterloo, Northwest"
+    },
+    {
+      "code": "N2Z",
+      "description": "Kincardine"
+    },
+    {
+      "code": "N3A",
+      "description": "Baden, New Hamburg"
+    },
+    {
+      "code": "N3B",
+      "description": "Elmira"
+    },
+    {
+      "code": "N3C",
+      "description": "Cambridge, Northeast"
+    },
+    {
+      "code": "N3E",
+      "description": "Cambridge, Northwest"
+    },
+    {
+      "code": "N3H",
+      "description": "Cambridge, West"
+    },
+    {
+      "code": "N3L",
+      "description": "Paris"
+    },
+    {
+      "code": "N3P",
+      "description": "Brantford, Northeast"
+    },
+    {
+      "code": "N3R",
+      "description": "Brantford, Central"
+    },
+    {
+      "code": "N3S",
+      "description": "Brantford, Southeast"
+    },
+    {
+      "code": "N3T",
+      "description": "Brantford, Southwest"
+    },
+    {
+      "code": "N3V",
+      "description": "Brantford, Northwest"
+    },
+    {
+      "code": "N3W",
+      "description": "Caledonia"
+    },
+    {
+      "code": "N3Y",
+      "description": "Simcoe"
+    },
+    {
+      "code": "N4B",
+      "description": "Delhi"
+    },
+    {
+      "code": "N4G",
+      "description": "Tillsonburg"
+    },
+    {
+      "code": "N4K",
+      "description": "Owen Sound"
+    },
+    {
+      "code": "N4L",
+      "description": "Meaford"
+    },
+    {
+      "code": "N4N",
+      "description": "Hanover"
+    },
+    {
+      "code": "N4S",
+      "description": "Woodstock, Central"
+    },
+    {
+      "code": "N4T",
+      "description": "Woodstock, North"
+    },
+    {
+      "code": "N4V",
+      "description": "Woodstock, South"
+    },
+    {
+      "code": "N4W",
+      "description": "Listowel"
+    },
+    {
+      "code": "N4X",
+      "description": "St. Marys"
+    },
+    {
+      "code": "N4Z",
+      "description": "Stratford, South"
+    },
+    {
+      "code": "N5A",
+      "description": "Stratford, North"
+    },
+    {
+      "code": "N5C",
+      "description": "Ingersoll"
+    },
+    {
+      "code": "N5H",
+      "description": "Aylmer"
+    },
+    {
+      "code": "N5L",
+      "description": "Port Stanley"
+    },
+    {
+      "code": "N5P",
+      "description": "St. Thomas, North"
+    },
+    {
+      "code": "N5R",
+      "description": "St. Thomas, South"
+    },
+    {
+      "code": "N5V",
+      "description": "London, (YXU / North and East Argyle / East Huron Heights)"
+    },
+    {
+      "code": "N5W",
+      "description": "London, East (SW Argyle / Hamilton Road)"
+    },
+    {
+      "code": "N5X",
+      "description": "London, (Fanshawe / Stoneybrook / Stoney Creek / Uplands / East Masonville)"
+    },
+    {
+      "code": "N5Y",
+      "description": "London, (West Huron Heights / Carling)"
+    },
+    {
+      "code": "N5Z",
+      "description": "London, (Glen Cairn)"
+    },
+    {
+      "code": "N6A",
+      "description": "London, North (UWO)"
+    },
+    {
+      "code": "N6B",
+      "description": "London, Central"
+    },
+    {
+      "code": "N6C",
+      "description": "London, South (East Highland / North White Oaks / North Westminster)"
+    },
+    {
+      "code": "N6E",
+      "description": "London, (South White Oaks / Central Westminster / East Longwoods / West Brockley)"
+    },
+    {
+      "code": "N6G",
+      "description": "London, (Sunningdale / West Masonville / Medway / NE Hyde Park / East Fox Hollow)"
+    },
+    {
+      "code": "N6H",
+      "description": "London, West (Central Hyde Park / Oakridge)"
+    },
+    {
+      "code": "N6J",
+      "description": "London, (Southcrest / East Westmount / West Highland)"
+    },
+    {
+      "code": "N6K",
+      "description": "London, (Riverbend / Woodhull / North Sharon Creek / Byron / West Westmount)"
+    },
+    {
+      "code": "N6L",
+      "description": "London, (East Tempo)"
+    },
+    {
+      "code": "N6M",
+      "description": "London, (Jackson / Old Victoria / Bradley / North Highbury)"
+    },
+    {
+      "code": "N6N",
+      "description": "London, (South Highbury / Glanworth / East Brockley / SE Westminster)"
+    },
+    {
+      "code": "N6P",
+      "description": "London, (Talbot / Lambeth / West Tempo / South Sharon Creek)"
+    },
+    {
+      "code": "N7A",
+      "description": "Goderich"
+    },
+    {
+      "code": "N7G",
+      "description": "Strathroy-Caradoc"
+    },
+    {
+      "code": "N7L",
+      "description": "ChathamKent, Northwest"
+    },
+    {
+      "code": "N7M",
+      "description": "ChathamKent, Southeast"
+    },
+    {
+      "code": "N7S",
+      "description": "Sarnia, Central"
+    },
+    {
+      "code": "N7T",
+      "description": "Sarnia, Southwest"
+    },
+    {
+      "code": "N7V",
+      "description": "Sarnia, Northwest"
+    },
+    {
+      "code": "N7W",
+      "description": "Sarnia, Southeast"
+    },
+    {
+      "code": "N7X",
+      "description": "Sarnia, Northeast"
+    },
+    {
+      "code": "N8A",
+      "description": "Wallaceburg"
+    },
+    {
+      "code": "N8H",
+      "description": "Leamington"
+    },
+    {
+      "code": "N8M",
+      "description": "Essex"
+    },
+    {
+      "code": "N8N",
+      "description": "Tecumseh, Outskirts"
+    },
+    {
+      "code": "N8P",
+      "description": "Windsor, (East Riverside)"
+    },
+    {
+      "code": "N8R",
+      "description": "Windsor, (East Forest Glade)"
+    },
+    {
+      "code": "N8S",
+      "description": "Windsor, (Riverside)"
+    },
+    {
+      "code": "N8T",
+      "description": "Windsor, (West Forest Glade / East Fontainbleu)"
+    },
+    {
+      "code": "N8V",
+      "description": "Tecumseh, (YQG)"
+    },
+    {
+      "code": "N8W",
+      "description": "Windsor, (South Walkerville / West Fontainbleu / Walker Farm / Devonshire)"
+    },
+    {
+      "code": "N8X",
+      "description": "Windsor, South Central (West Walkerville / Remington Park)"
+    },
+    {
+      "code": "N8Y",
+      "description": "Windsor, East (East Walkerville)"
+    },
+    {
+      "code": "N9A",
+      "description": "Windsor, (City Centre / NW Walkerville)"
+    },
+    {
+      "code": "N9B",
+      "description": "Windsor, (University / South Cameron)"
+    },
+    {
+      "code": "N9C",
+      "description": "Windsor, (Sandwich / Ojibway / West Malden)"
+    },
+    {
+      "code": "N9E",
+      "description": "Windsor, South (East Malden)"
+    },
+    {
+      "code": "N9G",
+      "description": "Windsor, (Roseland)"
+    },
+    {
+      "code": "N9H",
+      "description": "LaSalle, East"
+    },
+    {
+      "code": "N9J",
+      "description": "La Salle, West"
+    },
+    {
+      "code": "N9K",
+      "description": "Tecumseh, Central"
+    },
+    {
+      "code": "N9V",
+      "description": "Amherstburg"
+    },
+    {
+      "code": "N9Y",
+      "description": "Kingsville"
+    }
+  ]
+}

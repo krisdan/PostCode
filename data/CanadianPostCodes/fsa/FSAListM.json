@@ -1,0 +1,413 @@
+{
+  "name": "FSAListM",
+  "fsaList": [
+    {
+      "code": "M1B",
+      "description": "Scarborough, (Malvern / Rouge)"
+    },
+    {
+      "code": "M1C",
+      "description": "Scarborough, (Rouge Hill / Port Union / Highland Creek)"
+    },
+    {
+      "code": "M1E",
+      "description": "Scarborough, (Guildwood / Morningside / West Hill)"
+    },
+    {
+      "code": "M1G",
+      "description": "Scarborough, (Woburn)"
+    },
+    {
+      "code": "M1H",
+      "description": "Scarborough, (Cedarbrae)"
+    },
+    {
+      "code": "M1J",
+      "description": "Scarborough, (Scarborough Village)"
+    },
+    {
+      "code": "M1K",
+      "description": "Scarborough, (Kennedy Park / Ionview / East Birchmount Park)"
+    },
+    {
+      "code": "M1L",
+      "description": "Scarborough, (The Golden Mile / Clairlea / Oakridge / Birchmount Park East)"
+    },
+    {
+      "code": "M1M",
+      "description": "Scarborough, (Cliffside / Cliffcrest / Scarborough Village West)"
+    },
+    {
+      "code": "M1N",
+      "description": "Scarborough, (Birch Cliff / Cliffside West)"
+    },
+    {
+      "code": "M1P",
+      "description": "Scarborough, (Dorset Park / Wexford Heights / Scarborough Town Centre)"
+    },
+    {
+      "code": "M1R",
+      "description": "Scarborough, (Wexford / Maryvale)"
+    },
+    {
+      "code": "M1S",
+      "description": "Scarborough, (Agincourt)"
+    },
+    {
+      "code": "M1T",
+      "description": "Scarborough, (Clarks Corners / Tam O\u0027Shanter / Sullivan)"
+    },
+    {
+      "code": "M1V",
+      "description": "Scarborough, (Milliken / Agincourt North / Steeles East / L\u0027Amoreaux East)"
+    },
+    {
+      "code": "M1W",
+      "description": "Scarborough, (Steeles West / L\u0027Amoreaux West)"
+    },
+    {
+      "code": "M1X",
+      "description": "Scarborough, (Upper Rouge)"
+    },
+    {
+      "code": "M2H",
+      "description": "North York, (Hillcrest Village)"
+    },
+    {
+      "code": "M2J",
+      "description": "North York, (Fairview / Henry Farm / Oriole)"
+    },
+    {
+      "code": "M2K",
+      "description": "North York, (Bayview Village)"
+    },
+    {
+      "code": "M2L",
+      "description": "North York, (York Mills / Silver Hills)"
+    },
+    {
+      "code": "M2M",
+      "description": "Willowdale, East (Newtonbrook)"
+    },
+    {
+      "code": "M2N",
+      "description": "Willowdale, South"
+    },
+    {
+      "code": "M2P",
+      "description": "North York, (York Mills West)"
+    },
+    {
+      "code": "M2R",
+      "description": "Willowdale, West"
+    },
+    {
+      "code": "M3A",
+      "description": "North York, (York Heights / Victoria Village / Parkway East)"
+    },
+    {
+      "code": "M3B",
+      "description": "Don Mills, North"
+    },
+    {
+      "code": "M3C",
+      "description": "Don Mills, South (Flemingdon Park)"
+    },
+    {
+      "code": "M3H",
+      "description": "North York, (Bathurst Manor / Wilson Heights / Downsview North)"
+    },
+    {
+      "code": "M3J",
+      "description": "North York, (Northwood Park / York University)"
+    },
+    {
+      "code": "M3K",
+      "description": "Downsview, East (CFB Toronto)"
+    },
+    {
+      "code": "M3L",
+      "description": "Downsview, West"
+    },
+    {
+      "code": "M3M",
+      "description": "Downsview, Central"
+    },
+    {
+      "code": "M3N",
+      "description": "Downsview, Northwest"
+    },
+    {
+      "code": "M4A",
+      "description": "North York, (Sweeney Park / Wigmore Park)"
+    },
+    {
+      "code": "M4B",
+      "description": "East York, (Parkview Hill / Woodbine Gardens)"
+    },
+    {
+      "code": "M4C",
+      "description": "East York, (Woodbine Heights)"
+    },
+    {
+      "code": "M4E",
+      "description": "East Toronto, (The Beaches)"
+    },
+    {
+      "code": "M4G",
+      "description": "East York, (Leaside)"
+    },
+    {
+      "code": "M4H",
+      "description": "East York, (Thorncliffe Park)"
+    },
+    {
+      "code": "M4J",
+      "description": "East Toronto, (The Danforth East)"
+    },
+    {
+      "code": "M4K",
+      "description": "East Toronto, (The Danforth West / Riverdale)"
+    },
+    {
+      "code": "M4L",
+      "description": "East Toronto, (India Bazaar / The Beaches West)"
+    },
+    {
+      "code": "M4M",
+      "description": "East Toronto, (Studio District)"
+    },
+    {
+      "code": "M4N",
+      "description": "Central Toronto, (Lawrence Park)"
+    },
+    {
+      "code": "M4P",
+      "description": "Central Toronto, (Davisville North)"
+    },
+    {
+      "code": "M4R",
+      "description": "Central Toronto, (North Toronto West)"
+    },
+    {
+      "code": "M4S",
+      "description": "Central Toronto, (Davisville)"
+    },
+    {
+      "code": "M4T",
+      "description": "Central Toronto, (Moore Park / Summerhill East)"
+    },
+    {
+      "code": "M4V",
+      "description": "Central Toronto, (Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park)"
+    },
+    {
+      "code": "M4W",
+      "description": "Downtown Toronto, (Rosedale)"
+    },
+    {
+      "code": "M4X",
+      "description": "Downtown Toronto, (St. James Town / Cabbagetown)"
+    },
+    {
+      "code": "M4Y",
+      "description": "Downtown Toronto, (Church and Wellesley)"
+    },
+    {
+      "code": "M5A",
+      "description": "Downtown Toronto, (Regent Park / Harbourfront)"
+    },
+    {
+      "code": "M5B",
+      "description": "Downtown Toronto, (Ryerson)"
+    },
+    {
+      "code": "M5C",
+      "description": "Downtown Toronto, (St. James Town)"
+    },
+    {
+      "code": "M5E",
+      "description": "Downtown Toronto, (Berczy Park)"
+    },
+    {
+      "code": "M5G",
+      "description": "Downtown Toronto, (Central Bay Street)"
+    },
+    {
+      "code": "M5H",
+      "description": "Downtown Toronto, (Richmond / Adelaide / King)"
+    },
+    {
+      "code": "M5J",
+      "description": "Downtown Toronto, (Harbourfront East / Union Station / Toronto Islands)"
+    },
+    {
+      "code": "M5K",
+      "description": "Downtown Toronto, (Toronto Dominion Centre / Design Exchange)"
+    },
+    {
+      "code": "M5L",
+      "description": "Downtown Toronto, (Commerce Court / Victoria Hotel)"
+    },
+    {
+      "code": "M5M",
+      "description": "North York, (Bedford Park / Lawrence Manor East)"
+    },
+    {
+      "code": "M5N",
+      "description": "Central Toronto, (Roselawn)"
+    },
+    {
+      "code": "M5P",
+      "description": "Central Toronto, (Forest Hill North \u0026 West)"
+    },
+    {
+      "code": "M5R",
+      "description": "Central Toronto, (The Annex / North Midtown / Yorkville)"
+    },
+    {
+      "code": "M5S",
+      "description": "Downtown Toronto, (University of Toronto / Harbord)"
+    },
+    {
+      "code": "M5T",
+      "description": "Downtown Toronto, (Kensington Market / Chinatown / Grange Park)"
+    },
+    {
+      "code": "M5V",
+      "description": "Downtown Toronto, (CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / YTZ)"
+    },
+    {
+      "code": "M5W",
+      "description": "Downtown Toronto, Stn A PO Boxes 25 The Esplanade (Enclave of M5E)"
+    },
+    {
+      "code": "M5X",
+      "description": "Downtown Toronto, (First Canadian Place / Underground city)"
+    },
+    {
+      "code": "M6A",
+      "description": "North York, (Lawrence Manor / Lawrence Heights)"
+    },
+    {
+      "code": "M6B",
+      "description": "North York, (Glencairn)"
+    },
+    {
+      "code": "M6C",
+      "description": "York, (Humewood-Cedarvale)"
+    },
+    {
+      "code": "M6E",
+      "description": "York, (Caledonia-Fairbanks)"
+    },
+    {
+      "code": "M6G",
+      "description": "Downtown Toronto, (Christie)"
+    },
+    {
+      "code": "M6H",
+      "description": "West Toronto, (Dufferin / Dovercourt Village)"
+    },
+    {
+      "code": "M6J",
+      "description": "West Toronto, (Rua Açores / Trinity)"
+    },
+    {
+      "code": "M6K",
+      "description": "West Toronto, (Brockton / Parkdale Village / Exhibition Place)"
+    },
+    {
+      "code": "M6L",
+      "description": "North York, (North Park / Maple Leaf Park / Upwood Park)"
+    },
+    {
+      "code": "M6M",
+      "description": "York, (Del Ray / Keelsdale / Mount Dennis / Silverthorne)"
+    },
+    {
+      "code": "M6N",
+      "description": "York, (Runnymede / The Junction North)"
+    },
+    {
+      "code": "M6P",
+      "description": "West Toronto, (High Park / The Junction South)"
+    },
+    {
+      "code": "M6R",
+      "description": "West Toronto, (Parkdale / Roncesvalles)"
+    },
+    {
+      "code": "M6S",
+      "description": "West Toronto, (Runnymede / Swansea)"
+    },
+    {
+      "code": "M7A",
+      "description": "Queen\u0027s Park | Ontario Provincial Government"
+    },
+    {
+      "code": "M7Y",
+      "description": "East Toronto, Business reply mail Processing Centre 969 Eastern (Enclave of M4L)"
+    },
+    {
+      "code": "M8V",
+      "description": "Etobicoke, (New Toronto / Mimico South / Humber Bay Shores)"
+    },
+    {
+      "code": "M8W",
+      "description": "Etobicoke, (Alderwood / Long Branch)"
+    },
+    {
+      "code": "M8X",
+      "description": "Etobicoke, (The Kingsway / Montgomery Road / Old Mill North)"
+    },
+    {
+      "code": "M8Y",
+      "description": "Etobicoke, (Old Mill South / King\u0027s Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East)"
+    },
+    {
+      "code": "M8Z",
+      "description": "Etobicoke, (Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West)"
+    },
+    {
+      "code": "M9A",
+      "description": "Etobicoke, (Islington Avenue)"
+    },
+    {
+      "code": "M9B",
+      "description": "Etobicoke, (West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale)"
+    },
+    {
+      "code": "M9C",
+      "description": "Etobicoke, (Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Wood)"
+    },
+    {
+      "code": "M9L",
+      "description": "North York, (Humber Summit)"
+    },
+    {
+      "code": "M9M",
+      "description": "North York, (Humberlea / Emery)"
+    },
+    {
+      "code": "M9N",
+      "description": "Weston"
+    },
+    {
+      "code": "M9P",
+      "description": "Etobicoke, (Westmount)"
+    },
+    {
+      "code": "M9R",
+      "description": "Etobicoke, (Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens)"
+    },
+    {
+      "code": "M9V",
+      "description": "Etobicoke, (South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens)"
+    },
+    {
+      "code": "M9W",
+      "description": "Etobicoke, Northwest (Clairville / Humberwood / Woodbine Downs / West Humber / Kipling Heights / Rexdale / Elms / Tandridge / Old Rexdale)"
+    }
+  ]
+}

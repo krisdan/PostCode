@@ -1,0 +1,637 @@
+{
+  "name": "FSAListJ",
+  "fsaList": [
+    {
+      "code": "J0A",
+      "description": "Centre-du-Québec-Sud"
+    },
+    {
+      "code": "J0B",
+      "description": "Estrie-Est"
+    },
+    {
+      "code": "J0C",
+      "description": "Centre-du-Québec-Ouest"
+    },
+    {
+      "code": "J0E",
+      "description": "Estrie-Ouest"
+    },
+    {
+      "code": "J0G",
+      "description": "Bois-Francs-Nord"
+    },
+    {
+      "code": "J0H",
+      "description": "Bois-Francs-Sud"
+    },
+    {
+      "code": "J0J",
+      "description": "Montérégie-Est"
+    },
+    {
+      "code": "J0K",
+      "description": "Lanaudière-Nord"
+    },
+    {
+      "code": "J0L",
+      "description": "Montérégie-Nord"
+    },
+    {
+      "code": "J0M",
+      "description": "Montérégie-Nord"
+    },
+    {
+      "code": "J0N",
+      "description": "Région d\u0027Oka"
+    },
+    {
+      "code": "J0P",
+      "description": "Vaudreuil-Soulanges"
+    },
+    {
+      "code": "J0R",
+      "description": "Laurentides-Est"
+    },
+    {
+      "code": "J0S",
+      "description": "Montérégie-Ouest"
+    },
+    {
+      "code": "J0T",
+      "description": "Laurentides-Nord"
+    },
+    {
+      "code": "J0V",
+      "description": "Laurentides-Sud"
+    },
+    {
+      "code": "J0W",
+      "description": "Outaouais-Nord"
+    },
+    {
+      "code": "J0X",
+      "description": "Outaouais-Sud"
+    },
+    {
+      "code": "J0Y",
+      "description": "Abitibi-Témiscamingue-Est"
+    },
+    {
+      "code": "J0Z",
+      "description": "Abitibi-Témiscamingue-Ouest"
+    },
+    {
+      "code": "J1A",
+      "description": "Coaticook"
+    },
+    {
+      "code": "J1C",
+      "description": "Bromptonville"
+    },
+    {
+      "code": "J1E",
+      "description": "Sherbrooke, Northeast"
+    },
+    {
+      "code": "J1G",
+      "description": "Sherbrooke, East"
+    },
+    {
+      "code": "J1H",
+      "description": "Sherbrooke, Central"
+    },
+    {
+      "code": "J1J",
+      "description": "Sherbrooke, North"
+    },
+    {
+      "code": "J1K",
+      "description": "Sherbrooke, West"
+    },
+    {
+      "code": "J1L",
+      "description": "Sherbrooke, Northwest"
+    },
+    {
+      "code": "J1M",
+      "description": "Sherbrooke, Southeast"
+    },
+    {
+      "code": "J1N",
+      "description": "Rock Forest"
+    },
+    {
+      "code": "J1R",
+      "description": "Saint-Élie-d\u0027Orford"
+    },
+    {
+      "code": "J1S",
+      "description": "Windsor"
+    },
+    {
+      "code": "J1T",
+      "description": "Asbestos"
+    },
+    {
+      "code": "J1X",
+      "description": "Magog"
+    },
+    {
+      "code": "J1Z",
+      "description": "Saint-Cyrille-de-Wendover"
+    },
+    {
+      "code": "J2A",
+      "description": "Drummondville, Southeast"
+    },
+    {
+      "code": "J2B",
+      "description": "Drummondville, South"
+    },
+    {
+      "code": "J2C",
+      "description": "Drummondville, Central"
+    },
+    {
+      "code": "J2E",
+      "description": "Drummondville, Northwest"
+    },
+    {
+      "code": "J2G",
+      "description": "Granby, Central"
+    },
+    {
+      "code": "J2H",
+      "description": "Granby, East"
+    },
+    {
+      "code": "J2J",
+      "description": "Granby, West"
+    },
+    {
+      "code": "J2K",
+      "description": "Cowansville"
+    },
+    {
+      "code": "J2L",
+      "description": "Bromont"
+    },
+    {
+      "code": "J2M",
+      "description": "Shefford"
+    },
+    {
+      "code": "J2N",
+      "description": "Farnham"
+    },
+    {
+      "code": "J2R",
+      "description": "Saint-Hyacinthe, Northwest"
+    },
+    {
+      "code": "J2S",
+      "description": "Saint-Hyacinthe, Southwest"
+    },
+    {
+      "code": "J2T",
+      "description": "Saint-Hyacinthe, East"
+    },
+    {
+      "code": "J2W",
+      "description": "Saint-Luc"
+    },
+    {
+      "code": "J2X",
+      "description": "Saint-Jean-sur-Richelieu, East"
+    },
+    {
+      "code": "J2Y",
+      "description": "Saint-Jean-sur-Richelieu, West"
+    },
+    {
+      "code": "J3A",
+      "description": "Saint-Jean-sur-Richelieu, North"
+    },
+    {
+      "code": "J3B",
+      "description": "Saint-Jean-sur-Richelieu, Central"
+    },
+    {
+      "code": "J3E",
+      "description": "Sainte-Julie"
+    },
+    {
+      "code": "J3G",
+      "description": "Belil, West"
+    },
+    {
+      "code": "J3H",
+      "description": "Belil, East"
+    },
+    {
+      "code": "J3L",
+      "description": "Chambly"
+    },
+    {
+      "code": "J3M",
+      "description": "Marieville"
+    },
+    {
+      "code": "J3N",
+      "description": "Saint-Basile-le-Grand"
+    },
+    {
+      "code": "J3P",
+      "description": "Sorel-Tracy, Central"
+    },
+    {
+      "code": "J3R",
+      "description": "Sorel-Tracy, Southwest"
+    },
+    {
+      "code": "J3T",
+      "description": "Nicolet"
+    },
+    {
+      "code": "J3V",
+      "description": "Saint-Bruno-de-Montarville"
+    },
+    {
+      "code": "J3X",
+      "description": "Varennes"
+    },
+    {
+      "code": "J3Y",
+      "description": "Saint-Hubert, Central"
+    },
+    {
+      "code": "J3Z",
+      "description": "Saint-Hubert, East"
+    },
+    {
+      "code": "J4B",
+      "description": "Boucherville"
+    },
+    {
+      "code": "J4G",
+      "description": "Longueuil, North"
+    },
+    {
+      "code": "J4H",
+      "description": "Longueuil, West"
+    },
+    {
+      "code": "J4J",
+      "description": "Longueuil, Central"
+    },
+    {
+      "code": "J4K",
+      "description": "Longueuil, Southwest"
+    },
+    {
+      "code": "J4L",
+      "description": "Longueuil, Southeast"
+    },
+    {
+      "code": "J4M",
+      "description": "Longueuil, East"
+    },
+    {
+      "code": "J4N",
+      "description": "Longueuil, Northeast"
+    },
+    {
+      "code": "J4P",
+      "description": "Saint-Lambert, North"
+    },
+    {
+      "code": "J4R",
+      "description": "Saint-Laurent, Central"
+    },
+    {
+      "code": "J4S",
+      "description": "Saint-Lambert, South"
+    },
+    {
+      "code": "J4T",
+      "description": "Saint-Hubert, West"
+    },
+    {
+      "code": "J4V",
+      "description": "Greenfield Park"
+    },
+    {
+      "code": "J4W",
+      "description": "Brossard, Northwest"
+    },
+    {
+      "code": "J4X",
+      "description": "Brossard, Southwest"
+    },
+    {
+      "code": "J4Y",
+      "description": "Brossard, South"
+    },
+    {
+      "code": "J4Z",
+      "description": "Brossard, Northeast"
+    },
+    {
+      "code": "J5A",
+      "description": "Saint-Constant"
+    },
+    {
+      "code": "J5B",
+      "description": "Delson"
+    },
+    {
+      "code": "J5C",
+      "description": "Sainte-Catherine"
+    },
+    {
+      "code": "J5J",
+      "description": "Sainte-Sophie"
+    },
+    {
+      "code": "J5K",
+      "description": "Saint-Colomban"
+    },
+    {
+      "code": "J5L",
+      "description": "Saint-Jérôme, West"
+    },
+    {
+      "code": "J5M",
+      "description": "Saint-LinLaurentides"
+    },
+    {
+      "code": "J5R",
+      "description": "La Prairie"
+    },
+    {
+      "code": "J5T",
+      "description": "Lavaltrie"
+    },
+    {
+      "code": "J5V",
+      "description": "Louiseville"
+    },
+    {
+      "code": "J5W",
+      "description": "L\u0027Assomption"
+    },
+    {
+      "code": "J5X",
+      "description": "L\u0027Épiphanie"
+    },
+    {
+      "code": "J5Y",
+      "description": "Repentigny, Northeast"
+    },
+    {
+      "code": "J5Z",
+      "description": "Repentigny, West"
+    },
+    {
+      "code": "J6A",
+      "description": "Repentigny, South"
+    },
+    {
+      "code": "J6E",
+      "description": "Joliette"
+    },
+    {
+      "code": "J6J",
+      "description": "Châteauguay, North"
+    },
+    {
+      "code": "J6K",
+      "description": "Châteauguay, South"
+    },
+    {
+      "code": "J6N",
+      "description": "Beauharnois"
+    },
+    {
+      "code": "J6R",
+      "description": "Mercier"
+    },
+    {
+      "code": "J6S",
+      "description": "Salaberry-de-Valleyfield, North"
+    },
+    {
+      "code": "J6T",
+      "description": "Salaberry-de-Valleyfield, South"
+    },
+    {
+      "code": "J6V",
+      "description": "Terrebonne, East"
+    },
+    {
+      "code": "J6W",
+      "description": "Terrebonne, Central"
+    },
+    {
+      "code": "J6X",
+      "description": "Terrebonne, Northwest"
+    },
+    {
+      "code": "J6Y",
+      "description": "Terrebonne, Southwest"
+    },
+    {
+      "code": "J6Z",
+      "description": "Sainte-Thérèse-de-Blainville, Northeast"
+    },
+    {
+      "code": "J7A",
+      "description": "Sainte-Thérèse-de-Blainville, East"
+    },
+    {
+      "code": "J7B",
+      "description": "Sainte-Thérèse-de-Blainville, North"
+    },
+    {
+      "code": "J7C",
+      "description": "Sainte-Thérèse-de-Blainville, Northwest"
+    },
+    {
+      "code": "J7E",
+      "description": "Sainte-Thérèse-de-Blainville, Central"
+    },
+    {
+      "code": "J7G",
+      "description": "Sainte-Thérèse-de-Blainville, South"
+    },
+    {
+      "code": "J7H",
+      "description": "Sainte-Thérèse-de-Blainville, Southwest"
+    },
+    {
+      "code": "J7J",
+      "description": "Mirabel, Northeast"
+    },
+    {
+      "code": "J7K",
+      "description": "Mascouche, Extremities"
+    },
+    {
+      "code": "J7L",
+      "description": "Mascouche, Central"
+    },
+    {
+      "code": "J7M",
+      "description": "La Plaine"
+    },
+    {
+      "code": "J7N",
+      "description": "Mirabel, Southwest"
+    },
+    {
+      "code": "J7P",
+      "description": "Saint-Eustache, Northeast"
+    },
+    {
+      "code": "J7R",
+      "description": "Saint-Eustache, Southwest"
+    },
+    {
+      "code": "J7T",
+      "description": "Vaudreuil-Dorion RCM"
+    },
+    {
+      "code": "J7V",
+      "description": "Vaudreuil-Dorion"
+    },
+    {
+      "code": "J7W",
+      "description": "Pincourt"
+    },
+    {
+      "code": "J7X",
+      "description": "Salaberry-de-Valleyfield"
+    },
+    {
+      "code": "J7Y",
+      "description": "Saint-Jérôme, North"
+    },
+    {
+      "code": "J7Z",
+      "description": "Saint-Jérôme, Southeast"
+    },
+    {
+      "code": "J8A",
+      "description": "Saint-Hippolyte"
+    },
+    {
+      "code": "J8B",
+      "description": "Sainte-Adèle"
+    },
+    {
+      "code": "J8C",
+      "description": "Sainte-Agathe-des-Monts"
+    },
+    {
+      "code": "J8E",
+      "description": "Mont-Tremblant"
+    },
+    {
+      "code": "J8G",
+      "description": "Chatham"
+    },
+    {
+      "code": "J8H",
+      "description": "Lachute"
+    },
+    {
+      "code": "J8L",
+      "description": "Buckingham"
+    },
+    {
+      "code": "J8M",
+      "description": "Masson-Angers"
+    },
+    {
+      "code": "J8N",
+      "description": "Val-des-Monts"
+    },
+    {
+      "code": "J8P",
+      "description": "Gatineau, Southeast"
+    },
+    {
+      "code": "J8R",
+      "description": "Gatineau, Northeast"
+    },
+    {
+      "code": "J8T",
+      "description": "Gatineau, Southwest"
+    },
+    {
+      "code": "J8V",
+      "description": "Gatineau, Northwest"
+    },
+    {
+      "code": "J8X",
+      "description": "Hull, Southeast"
+    },
+    {
+      "code": "J8Y",
+      "description": "Hull, Central"
+    },
+    {
+      "code": "J8Z",
+      "description": "Hull, North"
+    },
+    {
+      "code": "J9A",
+      "description": "Hull, Southwest"
+    },
+    {
+      "code": "J9B",
+      "description": "Chelsea"
+    },
+    {
+      "code": "J9E",
+      "description": "Maniwaki"
+    },
+    {
+      "code": "J9H",
+      "description": "Aylmer, South"
+    },
+    {
+      "code": "J9J",
+      "description": "Aylmer, North"
+    },
+    {
+      "code": "J9L",
+      "description": "Mont-Laurier"
+    },
+    {
+      "code": "J9P",
+      "description": "Val-d\u0027Or"
+    },
+    {
+      "code": "J9T",
+      "description": "Amos"
+    },
+    {
+      "code": "J9V",
+      "description": "Ville-Marie"
+    },
+    {
+      "code": "J9X",
+      "description": "Rouyn-Noranda, South"
+    },
+    {
+      "code": "J9Y",
+      "description": "Rouyn-Noranda, North"
+    },
+    {
+      "code": "J9Z",
+      "description": "La Sarre"
+    }
+  ]
+}

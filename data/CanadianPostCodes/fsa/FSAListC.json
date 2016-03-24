@@ -1,0 +1,33 @@
+{
+  "name": "FSAListC",
+  "fsaList": [
+    {
+      "code": "C0A",
+      "description": "Kings and Queens counties"
+    },
+    {
+      "code": "C0B",
+      "description": "Prince County"
+    },
+    {
+      "code": "C1A",
+      "description": "Charlottetown, Southeast"
+    },
+    {
+      "code": "C1B",
+      "description": "Stratford"
+    },
+    {
+      "code": "C1C",
+      "description": "Charlottetown, North"
+    },
+    {
+      "code": "C1E",
+      "description": "Charlottetown, West"
+    },
+    {
+      "code": "C1N",
+      "description": "Summerside"
+    }
+  ]
+}

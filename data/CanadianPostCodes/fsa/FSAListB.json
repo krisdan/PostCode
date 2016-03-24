@@ -1,0 +1,313 @@
+{
+  "name": "FSAListB",
+  "fsaList": [
+    {
+      "code": "B0C",
+      "description": "Victoria County, North"
+    },
+    {
+      "code": "B0E",
+      "description": "Cape Breton Island, West"
+    },
+    {
+      "code": "B0H",
+      "description": "Canso region"
+    },
+    {
+      "code": "B0J",
+      "description": "South HRM and mainland east shore"
+    },
+    {
+      "code": "B0K",
+      "description": "Northumberland Strait south shore"
+    },
+    {
+      "code": "B0L",
+      "description": "Isthmus of Chignecto"
+    },
+    {
+      "code": "B0M",
+      "description": "Cobequid Bay north shore"
+    },
+    {
+      "code": "B0N",
+      "description": "North HRM and Hants County"
+    },
+    {
+      "code": "B0P",
+      "description": "Kings County"
+    },
+    {
+      "code": "B0R",
+      "description": "Lunenburg County, West"
+    },
+    {
+      "code": "B0S",
+      "description": "Annapolis County, West"
+    },
+    {
+      "code": "B0T",
+      "description": "Region of Queens Municipality"
+    },
+    {
+      "code": "B0V",
+      "description": "Digby County"
+    },
+    {
+      "code": "B0W",
+      "description": "Mainland, Southwest"
+    },
+    {
+      "code": "B1A",
+      "description": "Glace Bay"
+    },
+    {
+      "code": "B1B",
+      "description": "Port Morien"
+    },
+    {
+      "code": "B1C",
+      "description": "Louisbourg"
+    },
+    {
+      "code": "B1E",
+      "description": "Reserve Mines"
+    },
+    {
+      "code": "B1G",
+      "description": "Dominion"
+    },
+    {
+      "code": "B1H",
+      "description": "New Waterford"
+    },
+    {
+      "code": "B1J",
+      "description": "East Bay"
+    },
+    {
+      "code": "B1K",
+      "description": "Marion Bridge"
+    },
+    {
+      "code": "B1L",
+      "description": "Sydney, Southwest"
+    },
+    {
+      "code": "B1M",
+      "description": "Sydney, East"
+    },
+    {
+      "code": "B1N",
+      "description": "Sydney, North"
+    },
+    {
+      "code": "B1P",
+      "description": "Sydney, North Central"
+    },
+    {
+      "code": "B1R",
+      "description": "Sydney, West"
+    },
+    {
+      "code": "B1S",
+      "description": "Sydney, Central"
+    },
+    {
+      "code": "B1T",
+      "description": "Christmas Island"
+    },
+    {
+      "code": "B1V",
+      "description": "North Sydney, North"
+    },
+    {
+      "code": "B1W",
+      "description": "Eskasoni"
+    },
+    {
+      "code": "B1X",
+      "description": "Big Bras d\u0027Or"
+    },
+    {
+      "code": "B1Y",
+      "description": "Alder Point"
+    },
+    {
+      "code": "B2A",
+      "description": "North Sydney, South Central"
+    },
+    {
+      "code": "B2C",
+      "description": "Iona"
+    },
+    {
+      "code": "B2E",
+      "description": "Loch Lomond"
+    },
+    {
+      "code": "B2G",
+      "description": "Antigonish"
+    },
+    {
+      "code": "B2H",
+      "description": "New Glasgow"
+    },
+    {
+      "code": "B2J",
+      "description": "Fourchu"
+    },
+    {
+      "code": "B2N",
+      "description": "Truro, Central"
+    },
+    {
+      "code": "B2R",
+      "description": "Waverley"
+    },
+    {
+      "code": "B2S",
+      "description": "Lantz"
+    },
+    {
+      "code": "B2T",
+      "description": "Enfield / Fall River (YHZ)"
+    },
+    {
+      "code": "B2V",
+      "description": "Dartmouth, (Morris Lake / Cole Harbour)"
+    },
+    {
+      "code": "B2W",
+      "description": "Dartmouth (Portland Estates / South Woodside / Woodlawn), East Central"
+    },
+    {
+      "code": "B2X",
+      "description": "Dartmouth, North Central"
+    },
+    {
+      "code": "B2Y",
+      "description": "Dartmouth (North Woodside), South Central"
+    },
+    {
+      "code": "B2Z",
+      "description": "Dartmouth (East Lawrencetown / Preston / Mineville / Upper Lawrencetown), East"
+    },
+    {
+      "code": "B3A",
+      "description": "Dartmouth, North"
+    },
+    {
+      "code": "B3B",
+      "description": "Dartmouth (Burnside), Northwest"
+    },
+    {
+      "code": "B3E",
+      "description": "Porters Lake"
+    },
+    {
+      "code": "B3G",
+      "description": "Eastern Passage"
+    },
+    {
+      "code": "B3H",
+      "description": "Halifax, Lower Harbour"
+    },
+    {
+      "code": "B3J",
+      "description": "Halifax, Mid-Harbour"
+    },
+    {
+      "code": "B3K",
+      "description": "Halifax, Upper Harbour"
+    },
+    {
+      "code": "B3L",
+      "description": "Halifax, Central"
+    },
+    {
+      "code": "B3M",
+      "description": "Halifax, Bedford Basin"
+    },
+    {
+      "code": "B3N",
+      "description": "Halifax, South Central"
+    },
+    {
+      "code": "B3P",
+      "description": "Halifax, North West Arm"
+    },
+    {
+      "code": "B3R",
+      "description": "Halifax, South"
+    },
+    {
+      "code": "B3S",
+      "description": "Halifax (Bayers Lake / Clayton Park), West"
+    },
+    {
+      "code": "B3T",
+      "description": "Lakeside"
+    },
+    {
+      "code": "B3V",
+      "description": "Harrietsfield"
+    },
+    {
+      "code": "B3Z",
+      "description": "Tantallon"
+    },
+    {
+      "code": "B4A",
+      "description": "Bedford, Southeast"
+    },
+    {
+      "code": "B4B",
+      "description": "Bedford, Northwest"
+    },
+    {
+      "code": "B4C",
+      "description": "Lower Sackville, South"
+    },
+    {
+      "code": "B4E",
+      "description": "Lower Sackville, West"
+    },
+    {
+      "code": "B4G",
+      "description": "Lower Sackville, North"
+    },
+    {
+      "code": "B4H",
+      "description": "Amherst"
+    },
+    {
+      "code": "B4N",
+      "description": "Kentville"
+    },
+    {
+      "code": "B4P",
+      "description": "Wolfville"
+    },
+    {
+      "code": "B4R",
+      "description": "Coldbrook"
+    },
+    {
+      "code": "B4V",
+      "description": "Bridgewater"
+    },
+    {
+      "code": "B5A",
+      "description": "Yarmouth"
+    },
+    {
+      "code": "B6L",
+      "description": "Truro, Colchester County"
+    },
+    {
+      "code": "B9A",
+      "description": "Port Hawkesbury"
+    }
+  ]
+}

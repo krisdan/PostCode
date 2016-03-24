@@ -1,0 +1,145 @@
+{
+  "name": "FSAListA",
+  "fsaList": [
+    {
+      "code": "A0A",
+      "description": "Avalon Peninsula, Southeastern"
+    },
+    {
+      "code": "A0B",
+      "description": "Avalon Peninsula, Western"
+    },
+    {
+      "code": "A0C",
+      "description": "Bonavista Peninsula"
+    },
+    {
+      "code": "A0E",
+      "description": "Burin Peninsula"
+    },
+    {
+      "code": "A0G",
+      "description": "Newfoundland, Northeast"
+    },
+    {
+      "code": "A0H",
+      "description": "Newfoundland, Central"
+    },
+    {
+      "code": "A0J",
+      "description": "Newfoundland, Northern"
+    },
+    {
+      "code": "A0K",
+      "description": "Northwest, Newfoundland / Southeast, Labrador"
+    },
+    {
+      "code": "A0L",
+      "description": "Newfoundland, Western"
+    },
+    {
+      "code": "A0M",
+      "description": "La Poile Bay Region"
+    },
+    {
+      "code": "A0N",
+      "description": "Southwest Newfoundland / Port au Port Peninsula"
+    },
+    {
+      "code": "A0P",
+      "description": "Labrador, Central"
+    },
+    {
+      "code": "A0R",
+      "description": "Labrador, Northen \u0026 Western"
+    },
+    {
+      "code": "A1A",
+      "description": "St. John\u0027s, North"
+    },
+    {
+      "code": "A1B",
+      "description": "St. John\u0027s, Northwest"
+    },
+    {
+      "code": "A1C",
+      "description": "St. John\u0027s, North Central (Downtown Core)"
+    },
+    {
+      "code": "A1E",
+      "description": "St. John\u0027s, Central"
+    },
+    {
+      "code": "A1G",
+      "description": "St. John\u0027s, South"
+    },
+    {
+      "code": "A1H",
+      "description": "St. John\u0027s, SouthWest"
+    },
+    {
+      "code": "A1K",
+      "description": "Torbay"
+    },
+    {
+      "code": "A1L",
+      "description": "Paradise"
+    },
+    {
+      "code": "A1M",
+      "description": "Portugal cove-St Philip\u0027s"
+    },
+    {
+      "code": "A1N",
+      "description": "Mount Pearl"
+    },
+    {
+      "code": "A1S",
+      "description": "Goulds"
+    },
+    {
+      "code": "A1V",
+      "description": "Gander"
+    },
+    {
+      "code": "A1W",
+      "description": "Conception Bay South"
+    },
+    {
+      "code": "A1X",
+      "description": "Conception Bay"
+    },
+    {
+      "code": "A1Y",
+      "description": "Carbonear"
+    },
+    {
+      "code": "A2A",
+      "description": "Grand Falls"
+    },
+    {
+      "code": "A2B",
+      "description": "Windsor"
+    },
+    {
+      "code": "A2H",
+      "description": "Corner Brook"
+    },
+    {
+      "code": "A2N",
+      "description": "Stephenville"
+    },
+    {
+      "code": "A2V",
+      "description": "Labrador City"
+    },
+    {
+      "code": "A5A",
+      "description": "Clarenville"
+    },
+    {
+      "code": "A8A",
+      "description": "Deer Lake"
+    }
+  ]
+}
