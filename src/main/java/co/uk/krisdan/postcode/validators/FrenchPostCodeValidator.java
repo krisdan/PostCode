@@ -93,7 +93,7 @@ public class FrenchPostCodeValidator {
 		
 		boolean tooHigh = false;
 		
-		if (Integer.parseInt(postCode) > 73450) {
+		if (Integer.parseInt(postCode) > 98499) {
 			
 			tooHigh = true;
 		}
