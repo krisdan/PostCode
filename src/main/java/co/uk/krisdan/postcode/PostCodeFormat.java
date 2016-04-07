@@ -152,7 +152,7 @@ public abstract class PostCodeFormat {
 		
 		message.append(newLine);
 		
-		message.append("Any code between 01000 and 73450");
+		message.append("Any code between 01000 and 98499");
 		
 		message.append(newLine);
 		
@@ -164,7 +164,7 @@ public abstract class PostCodeFormat {
 		
 		message.append(newLine);
 		
-		message.append("Any code over 73450 or less than 00000");
+		message.append("Any code over 98499 or less than 00000");
 		
 		message.append(newLine);
 		
