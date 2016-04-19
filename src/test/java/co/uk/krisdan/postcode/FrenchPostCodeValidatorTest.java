@@ -166,7 +166,7 @@ public class FrenchPostCodeValidatorTest {
        
 		boolean valid = true;
 		
-		String postcode = "73451";
+		String postcode = "98500";
 		
 		valid = FrenchPostCodeValidator.validate(postcode);
 		
@@ -204,7 +204,7 @@ public class FrenchPostCodeValidatorTest {
 		
 		boolean valid = false;
 		
-        String postcode = "73451";
+        String postcode = "98500";
 		
 		valid = FrenchPostCodeValidator.isTooHigh(postcode);
 		

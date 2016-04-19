@@ -36,6 +36,7 @@
 		<plugins>
 			<plugin>
 				<groupId>com.akathist.maven.plugins.launch4j</groupId>
+				<version>1.7.8</version>
 				<artifactId>launch4j-maven-plugin</artifactId>
 				<executions>
 					<execution>
@@ -48,6 +49,7 @@
 							<headerType>gui</headerType>
 							<outfile>target/postcodeCheck.exe</outfile>
 							<jar>target/postcode-0.0.1-SNAPSHOT.jar</jar>
+							<icon>C:\Users\Chris\workspace\postcode\postbox.ico</icon>
 							<errTitle>postcodeCheck Error</errTitle>
 							<classPath>
 								<mainClass>co.uk.krisdan.postcode.App</mainClass>
