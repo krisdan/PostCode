@@ -15,6 +15,27 @@ import javax.swing.JTextField;
 import co.uk.krisdan.postcode.PostCode;
 import co.uk.krisdan.postcode.PostCodeAPI;
 import co.uk.krisdan.postcode.PostCodeAPIInterface;
+import co.uk.krisdan.postcode.exceptions.CaAlphaNumericPostCodeException;
+import co.uk.krisdan.postcode.exceptions.CaTooLongPostCodeException;
+import co.uk.krisdan.postcode.exceptions.CaTooShortPostCodeException;
+import co.uk.krisdan.postcode.exceptions.CaUnusedPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrNumericPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrTooHighPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrTooLongPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrTooLowPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrTooShortPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrUnusedPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UkAlphaNumericPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UkTooLongPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UkTooShortPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UkUnusedPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaForbidenCharactersPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaNumericPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaTooHighPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaTooLongPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaTooLowPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaTooShortPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaUnusedPostCodeException;
 
 public class CheckPostCodeFrame extends JFrame {
 
@@ -112,7 +133,76 @@ public class CheckPostCodeFrame extends JFrame {
 			
 			String message = createMessage(isEmpty, isValid, countryType);
 			
-			PostCode postCodeObj = createPostCodeObj(isEmpty, isValid);
+			PostCode postCodeObj;
+			
+			try {
+				postCodeObj = createPostCodeObj(isEmpty, isValid);
+			} catch (CaAlphaNumericPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (FrNumericPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UkAlphaNumericPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UsaNumericPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UsaForbidenCharactersPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (CaUnusedPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (CaTooLongPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (CaTooShortPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (FrTooLongPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (FrTooShortPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (FrUnusedPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (FrTooHighPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (FrTooLowPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UkUnusedPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UkTooLongPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UkTooShortPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UsaTooLongPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UsaTooShortPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UsaUnusedPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UsaTooHighPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (UsaTooLowPostCodeException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} finally {
+				postCodeObj = null;
+			}
 			
 			this.setMessage(message);
 			
@@ -131,9 +221,10 @@ public class CheckPostCodeFrame extends JFrame {
 			
 			boolean success = false;
 			
-			this.postCodeObj = p;
-			
 			if(this.getPostCodeObj() != null) {
+				
+				this.postCodeObj = p;
+				
 				success = true;
 			}
 			return success;
@@ -180,7 +271,7 @@ public class CheckPostCodeFrame extends JFrame {
 			return message;
 		}
 		
-		public PostCode createPostCodeObj(boolean isEmpty, boolean isValid) {
+		public PostCode createPostCodeObj(boolean isEmpty, boolean isValid) throws CaAlphaNumericPostCodeException, CaUnusedPostCodeException, CaTooLongPostCodeException, CaTooShortPostCodeException, FrNumericPostCodeException, FrTooLongPostCodeException, FrTooShortPostCodeException, FrUnusedPostCodeException, FrTooHighPostCodeException, FrTooLowPostCodeException, UkAlphaNumericPostCodeException, UkUnusedPostCodeException, UkTooLongPostCodeException, UkTooShortPostCodeException, UsaNumericPostCodeException, UsaForbidenCharactersPostCodeException, UsaTooLongPostCodeException, UsaTooShortPostCodeException, UsaUnusedPostCodeException, UsaTooHighPostCodeException, UsaTooLowPostCodeException {
 			
 			PostCode postCodeObj = null;
 			
@@ -207,28 +298,28 @@ public class CheckPostCodeFrame extends JFrame {
 			return postCodeObj;
 		}
 		
-		public PostCode createCanadianPostCode(String postCode) {
+		public PostCode createCanadianPostCode(String postCode) throws CaAlphaNumericPostCodeException, CaUnusedPostCodeException, CaTooLongPostCodeException, CaTooShortPostCodeException {
 			
 			PostCodeAPI postCodeAPI = PostCodeAPIInterface.getPostCodeAPI();
 			
 			return postCodeAPI.getCanadianPostCodeObject(postCode);
 		}
 		
-		public PostCode createFrenchPostCode(String postCode) {
+		public PostCode createFrenchPostCode(String postCode) throws FrNumericPostCodeException, FrTooLongPostCodeException, FrTooShortPostCodeException, FrUnusedPostCodeException, FrTooHighPostCodeException, FrTooLowPostCodeException {
 			
 			PostCodeAPI postCodeAPI = PostCodeAPIInterface.getPostCodeAPI();
 			
 			return postCodeAPI.getFrenchPostCodeObject(postCode);
 		}
 		
-		public PostCode createUkPostCode(String postCode) {
+		public PostCode createUkPostCode(String postCode) throws UkAlphaNumericPostCodeException, UkUnusedPostCodeException, UkTooLongPostCodeException, UkTooShortPostCodeException {
 			
 			PostCodeAPI postCodeAPI = PostCodeAPIInterface.getPostCodeAPI();
 			
 			return postCodeAPI.getUkPostCodeObject(postCode);
 		}
 		
-		public PostCode createUsaPostCode(String postCode) {
+		public PostCode createUsaPostCode(String postCode) throws UsaNumericPostCodeException, UsaForbidenCharactersPostCodeException, UsaTooLongPostCodeException, UsaTooShortPostCodeException, UsaUnusedPostCodeException, UsaTooHighPostCodeException, UsaTooLowPostCodeException {
 			
 			PostCodeAPI postCodeAPI = PostCodeAPIInterface.getPostCodeAPI();
 			

@@ -38,7 +38,7 @@ public class PostCodeCreator implements PostCodeCreatorAPI {
 	}
 
 	@Override
-	public PostCode getPostCodeObject(String postCode, String country) {
+	public PostCode getPostCodeObject(String postCode, String country) throws CaAlphaNumericPostCodeException, CaUnusedPostCodeException, CaTooLongPostCodeException, CaTooShortPostCodeException, FrNumericPostCodeException, FrTooLongPostCodeException, FrTooShortPostCodeException, FrUnusedPostCodeException, FrTooHighPostCodeException, FrTooLowPostCodeException, UkAlphaNumericPostCodeException, UkUnusedPostCodeException, UkTooLongPostCodeException, UkTooShortPostCodeException, UsaNumericPostCodeException, UsaForbidenCharactersPostCodeException, UsaTooLongPostCodeException, UsaTooShortPostCodeException, UsaUnusedPostCodeException, UsaTooHighPostCodeException, UsaTooLowPostCodeException {
 		
 		PostCode postCodeObj = null;
 		
@@ -50,7 +50,8 @@ public class PostCodeCreator implements PostCodeCreatorAPI {
 		
 			case "ca" :
 				
-			case "canada": if(isValid) { postCodeObj = this.getCanadianPostCodeObject(postCode);};
+			case "canada": if(isValid) { postCodeObj = 
+			this.getCanadianPostCodeObject(postCode);};
 				break;
 				
 			case "fr" :
@@ -78,7 +79,7 @@ public class PostCodeCreator implements PostCodeCreatorAPI {
 	}
 
 	@Override
-	public PostCode getCanadianPostCodeObject(String postCode) {
+	public PostCode getCanadianPostCodeObject(String postCode) throws CaAlphaNumericPostCodeException, CaUnusedPostCodeException, CaTooLongPostCodeException, CaTooShortPostCodeException {
 		
 		PostCode postCodeObj = null;
 		
@@ -88,21 +89,14 @@ public class PostCodeCreator implements PostCodeCreatorAPI {
 		
 		if (isValid) {
 			
-			try {
-				postCodeObj = new CanadianPostCode(postCode);
-			} catch (CaUnusedPostCodeException | CaTooLongPostCodeException | CaTooShortPostCodeException | CaAlphaNumericPostCodeException e) {
-				//e.printStackTrace();
-				postCodeObj = null;
-			} finally {
-				//System.out.println(this.getClass().getSimpleName() + postCodeObj);
-			}
-			
+			postCodeObj = new CanadianPostCode(postCode);			
 		}
+		
 		return postCodeObj;
 	}
 
 	@Override
-	public PostCode getFrenchPostCodeObject(String postCode) {
+	public PostCode getFrenchPostCodeObject(String postCode) throws FrNumericPostCodeException, FrTooLongPostCodeException, FrTooShortPostCodeException, FrUnusedPostCodeException, FrTooHighPostCodeException, FrTooLowPostCodeException {
 
 		PostCode postCodeObj = null;
 		
@@ -112,20 +106,14 @@ public class PostCodeCreator implements PostCodeCreatorAPI {
 		
 		if (isValid) {
 			
-			try {
-				postCodeObj = new FrenchPostCode(postCode);
-			} catch (FrNumericPostCodeException | FrTooLongPostCodeException | FrTooShortPostCodeException | FrUnusedPostCodeException | FrTooHighPostCodeException | FrTooLowPostCodeException e) {
-				//e.printStackTrace();
-				postCodeObj = null;
-			} finally {
-				//System.out.println(this.getClass().getSimpleName() + postCodeObj);
-			}
+			postCodeObj = new FrenchPostCode(postCode);
+			
 		}
 		return postCodeObj;
 	}
 
 	@Override
-	public PostCode getUkPostCodeObject(String postCode) {
+	public PostCode getUkPostCodeObject(String postCode) throws UkAlphaNumericPostCodeException, UkUnusedPostCodeException, UkTooLongPostCodeException, UkTooShortPostCodeException {
 
 		PostCode postCodeObj = null;
 		
@@ -135,20 +123,14 @@ public class PostCodeCreator implements PostCodeCreatorAPI {
 		
 		if (isValid) {
 			
-			try {
-				postCodeObj = new UkPostCode(postCode);
-			} catch (UkUnusedPostCodeException | UkTooLongPostCodeException |UkTooShortPostCodeException | UkAlphaNumericPostCodeException e) {
-				//e.printStackTrace();
-				postCodeObj = null;
-			} finally {
-				//System.out.println(this.getClass().getSimpleName() + postCodeObj);
-			}
+			postCodeObj = new UkPostCode(postCode);
+			
 		}
 		return postCodeObj;
 	}
 
 	@Override
-	public PostCode getUsaPostCodeObject(String postCode) {
+	public PostCode getUsaPostCodeObject(String postCode) throws UsaNumericPostCodeException, UsaForbidenCharactersPostCodeException, UsaTooLongPostCodeException, UsaTooShortPostCodeException, UsaUnusedPostCodeException, UsaTooHighPostCodeException, UsaTooLowPostCodeException {
 
 		PostCode postCodeObj = null;
 		
@@ -158,14 +140,8 @@ public class PostCodeCreator implements PostCodeCreatorAPI {
 		
 		if (isValid) {
 			
-			try {
-				postCodeObj = new UsaPostCode(postCode);
-			} catch (UsaTooLongPostCodeException | UsaTooShortPostCodeException | UsaUnusedPostCodeException | UsaTooHighPostCodeException | UsaTooLowPostCodeException | UsaNumericPostCodeException | UsaForbidenCharactersPostCodeException e) {
-				//e.printStackTrace();
-				postCodeObj = null;
-			} finally {
-				//System.out.println(this.getClass().getSimpleName() + postCodeObj);
-			}
+			postCodeObj = new UsaPostCode(postCode);
+			
 		}
 		return postCodeObj;
 	}
