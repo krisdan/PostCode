@@ -16,17 +16,30 @@ public class PostCodeWrapperTest {
 		
 		boolean isFinalized = false;
 		
+		boolean failed = false;
+		
 		PostCodeCreatorAPI api = PostCodeCreator.getInstance();
 		
 		PostCodeWrapper wrapper = api.getPostCodeWrapper();
 		
-		wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+		try {
+			wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+			
+			wrapper.finalize();
+			
+		} catch (CaAlphaNumericPostCodeException | CaUnusedPostCodeException | CaTooLongPostCodeException
+				| CaTooShortPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			failed = true;
+			
+		} 
 		
-		wrapper.finalize();
-		
-		if (wrapper.getPostCode() == null && wrapper.getMessage() == null) {
-			isFinalized = true;
+		if (!failed && wrapper.getPostCode() == null && wrapper.getMessage() == null) {
+				isFinalized = true;
 		}
+
 		assertEquals(true, isFinalized);
 	}
 
@@ -48,16 +61,29 @@ public class PostCodeWrapperTest {
 		
 		boolean messageCorrect = false;
 		
+		boolean failed = false;
+		
 		PostCodeCreatorAPI api = PostCodeCreator.getInstance();
 		
 		PostCodeWrapper wrapper = api.getPostCodeWrapper();
 		
-		wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+		try {
+			wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+		} catch (CaAlphaNumericPostCodeException | CaUnusedPostCodeException | CaTooLongPostCodeException
+				| CaTooShortPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			failed = true;
+			
+			System.out.println(this.getClass().getSimpleName() + ".testGetMessage() has generated an error.");
+			
+		} 
 		
-		if(wrapper.getMessage().equals("CanadianPostCode Post code: H2J 1N3")) {
-			messageCorrect = true;
+		if(!failed && wrapper.getMessage().equals("CanadianPostCode Post code: H2J 1N3")) {
+				messageCorrect = true;
 		}
-		
+
 		assertEquals(true, messageCorrect);
 	}
 
@@ -66,14 +92,27 @@ public class PostCodeWrapperTest {
 		
 		boolean isWrapped = false;
 		
+		boolean failed = false;
+		
 		PostCodeCreatorAPI api = PostCodeCreator.getInstance();
 		
 		PostCodeWrapper wrapper = api.getPostCodeWrapper();
 		
-		wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+		try {
+			wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+		} catch (CaAlphaNumericPostCodeException | CaUnusedPostCodeException | CaTooLongPostCodeException
+				| CaTooShortPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			failed = true;
+			
+			System.out.println(this.getClass().getSimpleName() + ".testWrapPostCode() has generated an error.");
+			
+		} 
 		
-		if(wrapper.getPostCode() instanceof PostCode) {
-			isWrapped = true;
+		if(!failed && wrapper.getPostCode() instanceof PostCode) {
+				isWrapped = true;
 		}
 		
 		assertEquals(true, isWrapped);
@@ -84,14 +123,27 @@ public class PostCodeWrapperTest {
 		
 		boolean isCorrect = false;
 		
+		boolean failed = false;
+		
 		PostCodeCreatorAPI api = PostCodeCreator.getInstance();
 		
 		PostCodeWrapper wrapper = api.getPostCodeWrapper();
 		
-		wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+		try {
+			wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+		} catch (CaAlphaNumericPostCodeException | CaUnusedPostCodeException | CaTooLongPostCodeException
+				| CaTooShortPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			failed = true;
+			
+			System.out.println(this.getClass().getSimpleName() + ".testGetAsString() has generated an error.");
+			
+		} 
 		
-		if(wrapper.getAsString().equals("H2J 1N3")) {
-			isCorrect = true;
+		if(!failed && wrapper.getAsString().equals("H2J 1N3")) {
+				isCorrect = true;
 		}
 		
 		assertEquals(true, isCorrect);
@@ -102,6 +154,8 @@ public class PostCodeWrapperTest {
 
 		boolean isCorrect = true;
 		
+		boolean failed = false;
+		
 		String postCode = "H2J 1N3";
 		
 		char[] code = postCode.toCharArray();
@@ -110,13 +164,23 @@ public class PostCodeWrapperTest {
 		
 		PostCodeWrapper wrapper = api.getPostCodeWrapper();
 		
-		wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+		try {
+			wrapper.wrapPostCode(api.getCanadianPostCodeObject("H2J 1N3"));
+		} catch (CaAlphaNumericPostCodeException | CaUnusedPostCodeException | CaTooLongPostCodeException
+				| CaTooShortPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			failed = true;
+			
+			System.out.println(this.getClass().getSimpleName() + ".testGetAsString() has generated an error.");			
+		}
 		
 		char[] code2 = wrapper.getAsCharArray();
 		
 		for(int i = 0; i < code.length; i++) {
 			
-			if (code[i] != code2[i] ) {
+			if (code[i] != code2[i] && !failed ) {
 				
 				isCorrect = false;
 			}

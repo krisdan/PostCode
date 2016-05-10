@@ -4,6 +4,28 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import co.uk.krisdan.postcode.exceptions.CaAlphaNumericPostCodeException;
+import co.uk.krisdan.postcode.exceptions.CaTooLongPostCodeException;
+import co.uk.krisdan.postcode.exceptions.CaTooShortPostCodeException;
+import co.uk.krisdan.postcode.exceptions.CaUnusedPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrNumericPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrTooHighPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrTooLongPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrTooLowPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrTooShortPostCodeException;
+import co.uk.krisdan.postcode.exceptions.FrUnusedPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UkAlphaNumericPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UkTooLongPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UkTooShortPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UkUnusedPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaForbidenCharactersPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaNumericPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaTooHighPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaTooLongPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaTooLowPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaTooShortPostCodeException;
+import co.uk.krisdan.postcode.exceptions.UsaUnusedPostCodeException;
+
 public class PostCodeAPIInterfaceTest {
 
 	@Test
@@ -30,9 +52,30 @@ public class PostCodeAPIInterfaceTest {
 		
 		String code = "TF1 6QR";
 		
-		PostCode postCode = api.getPostCodeObject(code, "United Kingdom");
+		PostCode postCode;
 		
-		if(postCode.getAsString().equals(code) && postCode instanceof PostCode) {
+		try {
+			postCode = api.getPostCodeObject(code, "United Kingdom");
+		} catch (CaAlphaNumericPostCodeException | FrNumericPostCodeException | UkAlphaNumericPostCodeException
+				| UsaNumericPostCodeException | UsaForbidenCharactersPostCodeException | CaUnusedPostCodeException
+				| CaTooLongPostCodeException | CaTooShortPostCodeException | FrTooLongPostCodeException
+				| FrTooShortPostCodeException | FrUnusedPostCodeException | FrTooHighPostCodeException
+				| FrTooLowPostCodeException | UkUnusedPostCodeException | UkTooLongPostCodeException
+				| UkTooShortPostCodeException | UsaTooLongPostCodeException | UsaTooShortPostCodeException
+				| UsaUnusedPostCodeException | UsaTooHighPostCodeException | UsaTooLowPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			postCode = null;
+			
+			System.out.println("An exception occured in PostCodeAPIInterfaceTest.testGetPostCodeObject()");
+			
+		} finally {
+			
+			isPostCode = false;
+		}
+		
+		if(postCode != null && postCode.getAsString().equals(code) && postCode instanceof PostCode) {
 			isPostCode = true;
 		}
 		
@@ -48,9 +91,29 @@ public class PostCodeAPIInterfaceTest {
 		
 		String code = "H2J 1N3";
 		
-		PostCode postCode = api.getPostCodeObject(code, "Canada");
+		PostCode postCode = null;
+		try {
+			postCode = api.getPostCodeObject(code, "Canada");
+		} catch (CaAlphaNumericPostCodeException | FrNumericPostCodeException | UkAlphaNumericPostCodeException
+				| UsaNumericPostCodeException | UsaForbidenCharactersPostCodeException | CaUnusedPostCodeException
+				| CaTooLongPostCodeException | CaTooShortPostCodeException | FrTooLongPostCodeException
+				| FrTooShortPostCodeException | FrUnusedPostCodeException | FrTooHighPostCodeException
+				| FrTooLowPostCodeException | UkUnusedPostCodeException | UkTooLongPostCodeException
+				| UkTooShortPostCodeException | UsaTooLongPostCodeException | UsaTooShortPostCodeException
+				| UsaUnusedPostCodeException | UsaTooHighPostCodeException | UsaTooLowPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			postCode = null;
+			
+			System.out.println("An exception occured in PostCodeAPIInterfaceTest.testGetCanadianPostCodeObject()");
+			
+		} finally {
+			
+			isCanadian = false;
+		}
 		
-		if(postCode.getAsString().equals(code) && postCode instanceof CanadianPostCode) {
+		if(postCode != null && postCode.getAsString().equals(code) && postCode instanceof CanadianPostCode) {
 			isCanadian = true;
 		}
 		
@@ -66,9 +129,30 @@ public class PostCodeAPIInterfaceTest {
 		
 		String code = "45000";
 		
-		PostCode postCode = api.getPostCodeObject(code, "France");
+		PostCode postCode;
 		
-		if(postCode.getAsString().equals(code) && postCode instanceof FrenchPostCode) {
+		try {
+			postCode = api.getPostCodeObject(code, "France");
+		} catch (CaAlphaNumericPostCodeException | FrNumericPostCodeException | UkAlphaNumericPostCodeException
+				| UsaNumericPostCodeException | UsaForbidenCharactersPostCodeException | CaUnusedPostCodeException
+				| CaTooLongPostCodeException | CaTooShortPostCodeException | FrTooLongPostCodeException
+				| FrTooShortPostCodeException | FrUnusedPostCodeException | FrTooHighPostCodeException
+				| FrTooLowPostCodeException | UkUnusedPostCodeException | UkTooLongPostCodeException
+				| UkTooShortPostCodeException | UsaTooLongPostCodeException | UsaTooShortPostCodeException
+				| UsaUnusedPostCodeException | UsaTooHighPostCodeException | UsaTooLowPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			postCode = null;
+			
+			System.out.println("An exception occured in PostCodeAPIInterfaceTest.testGetFrenchPostCodeObject()");
+			
+		} finally {
+			
+			isFrench = false;
+		}
+		
+		if(postCode != null && postCode.getAsString().equals(code) && postCode instanceof FrenchPostCode) {
 			isFrench = true;
 		}
 		
@@ -84,9 +168,30 @@ public class PostCodeAPIInterfaceTest {
 		
 		String code = "ST1 4BY";
 		
-		PostCode postCode = api.getPostCodeObject(code, "United Kingdom");
+		PostCode postCode;
 		
-		if(postCode.getAsString().equals(code) && postCode instanceof UkPostCode) {
+		try {
+			postCode = api.getPostCodeObject(code, "United Kingdom");
+		} catch (CaAlphaNumericPostCodeException | FrNumericPostCodeException | UkAlphaNumericPostCodeException
+				| UsaNumericPostCodeException | UsaForbidenCharactersPostCodeException | CaUnusedPostCodeException
+				| CaTooLongPostCodeException | CaTooShortPostCodeException | FrTooLongPostCodeException
+				| FrTooShortPostCodeException | FrUnusedPostCodeException | FrTooHighPostCodeException
+				| FrTooLowPostCodeException | UkUnusedPostCodeException | UkTooLongPostCodeException
+				| UkTooShortPostCodeException | UsaTooLongPostCodeException | UsaTooShortPostCodeException
+				| UsaUnusedPostCodeException | UsaTooHighPostCodeException | UsaTooLowPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			postCode = null;
+			
+			System.out.println("An exception occured in PostCodeAPIInterfaceTest.testGetUkPostCodeObject()");
+			
+		} finally {
+			
+			isUk = false;			
+		}
+		
+		if(postCode != null && postCode.getAsString().equals(code) && postCode instanceof UkPostCode) {
 			isUk = true;
 		}
 		
@@ -102,9 +207,29 @@ public class PostCodeAPIInterfaceTest {
 		
 		String code = "84150";
 		
-		PostCode postCode = api.getPostCodeObject(code, "United States of America");
+		PostCode postCode;
+		try {
+			postCode = api.getPostCodeObject(code, "United States of America");
+		} catch (CaAlphaNumericPostCodeException | FrNumericPostCodeException | UkAlphaNumericPostCodeException
+				| UsaNumericPostCodeException | UsaForbidenCharactersPostCodeException | CaUnusedPostCodeException
+				| CaTooLongPostCodeException | CaTooShortPostCodeException | FrTooLongPostCodeException
+				| FrTooShortPostCodeException | FrUnusedPostCodeException | FrTooHighPostCodeException
+				| FrTooLowPostCodeException | UkUnusedPostCodeException | UkTooLongPostCodeException
+				| UkTooShortPostCodeException | UsaTooLongPostCodeException | UsaTooShortPostCodeException
+				| UsaUnusedPostCodeException | UsaTooHighPostCodeException | UsaTooLowPostCodeException e) {
+			
+			//e.printStackTrace();
+			
+			postCode = null;
+			
+			System.out.println("An exception occured in PostCodeAPIInterfaceTest.testGetUkPostCodeObject()");
+			
+		} finally {
+			
+			isUsa = false;
+		}
 		
-		if(postCode.getAsString().equals(code) && postCode instanceof UsaPostCode) {
+		if(postCode != null && postCode.getAsString().equals(code) && postCode instanceof UsaPostCode) {
 			isUsa = true;
 		}
 		
