@@ -49,7 +49,11 @@ public class UkPostCode extends PostCode {
 		return postCode;
 	}
 
-
+	@Override
+	public String getCountryFormat() {
+		
+		return PostCodeFormat.ukFormatMsg();
+	}
 
 	@Override
 	protected boolean validate() 

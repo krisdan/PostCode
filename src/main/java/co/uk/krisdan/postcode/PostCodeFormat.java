@@ -96,6 +96,30 @@ public abstract class PostCodeFormat {
 		return isUk;
 	}
 	
+	public static String getCountryFormatMsg(String country) {
+		
+		String formatMsg = null;
+		
+		switch (country.toLowerCase()) {
+		
+			case "ca":
+			case "canada": formatMsg = canadianFormatMsg();
+				break;
+			case "fr":
+			case "france": formatMsg = frenchFormatMsg();
+				break;
+			case "uk":
+			case "united kingdom": formatMsg = ukFormatMsg();
+				break;
+			case "usa":
+			case "united states of america": formatMsg = usaFormatMsg();
+				break;
+			default: formatMsg = "Please ensure you have supplied the post code in the correct format the country";
+		}
+		
+		return formatMsg;
+	}
+	
 
 	public static String canadianFormatMsg() {
 		

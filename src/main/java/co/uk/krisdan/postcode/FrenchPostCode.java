@@ -44,6 +44,12 @@ public class FrenchPostCode extends PostCode {
 		
 		return cpPostCode;
 	}
+	
+	@Override
+	public String getCountryFormat() {
+		
+		return PostCodeFormat.frenchFormatMsg();
+	}
 
 	@Override
 	protected boolean validate() throws FrNumericPostCodeException, FrTooLongPostCodeException, FrTooShortPostCodeException, FrUnusedPostCodeException, FrTooHighPostCodeException, FrTooLowPostCodeException {

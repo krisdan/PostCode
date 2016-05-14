@@ -46,7 +46,11 @@ public class UsaPostCode extends PostCode {
 		return postCode;
 	}
 
-
+	@Override
+	public String getCountryFormat() {
+		
+		return PostCodeFormat.usaFormatMsg();
+	}
 
 	@Override
 	protected boolean validate() throws UsaTooLongPostCodeException, UsaTooShortPostCodeException,

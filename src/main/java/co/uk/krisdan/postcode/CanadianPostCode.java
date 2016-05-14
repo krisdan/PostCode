@@ -75,6 +75,12 @@ public class CanadianPostCode extends PostCode {
 		
 		return postCode;
 	}
+	
+	@Override
+	public String getCountryFormat() {
+		
+		return PostCodeFormat.canadianFormatMsg();
+	}
 
 	/** Validation Method - validate()
 	 * 

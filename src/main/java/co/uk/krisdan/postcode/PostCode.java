@@ -42,6 +42,8 @@ public abstract class PostCode {
 		
 		return this.getAsString().trim().toCharArray();
 	}
+	
+	public abstract String getCountryFormat();
 
 	protected abstract boolean validate()
 			throws UkUnusedPostCodeException, UkTooLongPostCodeException, UkAlphaNumericPostCodeException, UkTooShortPostCodeException,
